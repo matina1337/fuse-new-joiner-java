@@ -51,7 +51,7 @@ public class IexService {
     if (CollectionUtils.isEmpty(Collections.singletonList(symbol))) {
       return Collections.emptyList();
     } else {
-      return iexClient.getHistoricalPriceForParams();
+      return iexClient.getHistoricalPriceForParams(symbol, range, date);
     }
   }
 
