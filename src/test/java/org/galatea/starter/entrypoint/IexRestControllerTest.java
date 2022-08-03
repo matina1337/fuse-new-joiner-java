@@ -60,7 +60,7 @@ public class IexRestControllerTest extends ASpringTest {
 
     MvcResult result = this.mvc.perform(
         org.springframework.test.web.servlet.request.MockMvcRequestBuilders
-            .get("/iex/lastTradedPrice?symbols=AAPL")
+            .get("/iex/lastTradedPrice?symbols=FB")
             // This URL will be hit by the MockMvc client. The result is configured in the file
             // src/test/resources/wiremock/mappings/mapping-lastTradedPrice.json
             .accept(MediaType.APPLICATION_JSON_VALUE))
