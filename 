@@ -1,0 +1,4851 @@
+[33mcommit 88b428c11a7766a9cbe80e9ac8a6f4ddb75493e4[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 417b8f6 ad8c063
+Author: nlisiecka <nlisiecka@ufl.edu>
+Date:   Tue Jan 25 11:30:23 2022 -0500
+
+    resolved merge conflicts with upstream
+
+[33mcommit ad8c0635ba06828ac6b8d604268c1fef81a7112b[m
+Merge: f35c67a dcbd681
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Fri Jan 7 18:14:47 2022 -0500
+
+    Merge pull request #382 from galatea-associates/dependabot/maven/com.google.protobuf-protobuf-java-3.16.1
+    
+    Bump protobuf-java from 3.5.1 to 3.16.1
+
+[33mcommit dcbd681a9514e829401f095ca3cf5d2fe57f5b92[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jan 7 22:36:45 2022 +0000
+
+    Bump protobuf-java from 3.5.1 to 3.16.1
+    
+    Bumps [protobuf-java](https://github.com/protocolbuffers/protobuf) from 3.5.1 to 3.16.1.
+    - [Release notes](https://github.com/protocolbuffers/protobuf/releases)
+    - [Changelog](https://github.com/protocolbuffers/protobuf/blob/master/generate_changelog.py)
+    - [Commits](https://github.com/protocolbuffers/protobuf/compare/v3.5.1...v3.16.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.google.protobuf:protobuf-java
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f35c67ad03f4accfc3c099e46c52f1ebfb129b1b[m
+Merge: 589440b c8efcb3
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Wed Jan 5 14:24:33 2022 -0500
+
+    Merge pull request #381 from galatea-associates/GalaFirsh-patch-1
+    
+    Update CODEOWNERS
+
+[33mcommit c8efcb30ecfc333b7a195b13397b08a4240311f8[m
+Author: Firsh <37584027+GalaFirsh@users.noreply.github.com>
+Date:   Wed Jan 5 14:08:59 2022 -0500
+
+    Update CODEOWNERS
+    
+    Remove mikegajda, add GalaFirsh and atighe
+
+[33mcommit 589440bc28a814299165c1c215c117696dbac8bf[m
+Merge: 3303469 23f6d8f
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Wed Dec 22 16:55:56 2021 -0500
+
+    Merge pull request #366 from galatea-associates/feature/issue-364-clarify-fuse-purpose
+    
+    Feature/issue 364 clarify fuse purpose
+
+[33mcommit 23f6d8f0aa78df982f52d0c9414ee3fcdcfe0386[m
+Author: Ali Husain <43182129+alihusain120@users.noreply.github.com>
+Date:   Wed Dec 22 09:42:13 2021 -0600
+
+    Update README.md
+
+[33mcommit 2d6771fc031bad3609b5bb87f142e3e25ad907a4[m
+Author: alihus <alihusain120@gmail.com>
+Date:   Wed Dec 22 09:39:33 2021 -0600
+
+    readme changes
+
+[33mcommit 33034694fa0afa51e6019b97948cbd1dfa68ceab[m
+Merge: 4a8f708 d173b60
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Dec 21 09:04:37 2021 -0500
+
+    Merge pull request #358 from galatea-associates/feature/issue-46_research-thread-monitor
+    
+    add visualvm and thread monitoring details to Readme
+
+[33mcommit d173b60b74ee570d1fd044dbab3aff40435474fb[m
+Merge: f23e917 4a8f708
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Dec 21 08:57:27 2021 -0500
+
+    Merge branch 'develop' into feature/issue-46_research-thread-monitor
+
+[33mcommit 4a8f708a987ee3d10b90face63df474e3ac346f1[m
+Merge: 3a4ffb4 1896ff9
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Dec 21 08:19:55 2021 -0500
+
+    Merge pull request #357 from galatea-associates/feature/issue-319_Add-Maven-Installation-Instructions-To-Readme
+    
+    Added instructions for installing Maven
+
+[33mcommit 1896ff970ba356c7188d6d7fb95ceca880b640a5[m
+Merge: 15f6787 3a4ffb4
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Dec 21 08:15:38 2021 -0500
+
+    Merge branch 'develop' into feature/issue-319_Add-Maven-Installation-Instructions-To-Readme
+
+[33mcommit 3a4ffb4bf0725e9832791ec3b2fdbf6b5bda827c[m
+Merge: f1a0cd3 efaefb9
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Dec 21 08:13:05 2021 -0500
+
+    Merge pull request #356 from galatea-associates/feature/issue-320_Add-Postman-Installation-Instructions
+    
+    Added instructions for installing and using Postman
+
+[33mcommit efaefb9a54cce3d73feb64fb457582ca998282cc[m
+Merge: 2c2a4e0 f1a0cd3
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 17:06:29 2021 -0500
+
+    Merge branch 'develop' into feature/issue-320_Add-Postman-Installation-Instructions
+
+[33mcommit f1a0cd3447c5978729a2234668f9c9740d3f2333[m
+Merge: ab0e157 fa663ae
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 17:04:34 2021 -0500
+
+    Merge pull request #352 from galatea-associates/feature/issue-317-add-git-documentation
+    
+    #317 add documentation to readme regarding git
+
+[33mcommit fa663aec71c24fd3799bbc802ad838d11e8e86b4[m
+Merge: 5249f7a ab0e157
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 17:00:16 2021 -0500
+
+    Merge branch 'develop' into feature/issue-317-add-git-documentation
+
+[33mcommit ab0e157bd8f55a85cc8dcdc8c45fd7c4fc0ac425[m
+Merge: 0bfe509 73cef98
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 16:59:21 2021 -0500
+
+    Merge pull request #361 from galatea-associates/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.8
+    
+    Bump jackson-databind from 2.9.10.7 to 2.9.10.8
+
+[33mcommit 73cef98f1a700799864848770beb25e5557ee341[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 21:48:47 2021 +0000
+
+    Bump jackson-databind from 2.9.10.7 to 2.9.10.8
+    
+    Bumps [jackson-databind](https://github.com/FasterXML/jackson) from 2.9.10.7 to 2.9.10.8.
+    - [Release notes](https://github.com/FasterXML/jackson/releases)
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: com.fasterxml.jackson.core:jackson-databind
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0bfe509c1618c87a2a5e649e8651e40cc360e305[m
+Merge: 6bf1821 dc8a277
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 16:48:28 2021 -0500
+
+    Merge pull request #353 from galatea-associates/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.7
+    
+    Bump jackson-databind from 2.9.10.3 to 2.9.10.7
+
+[33mcommit dc8a277720db248f3db8a06fb47c5cb9312165d1[m
+Merge: f7306a7 6bf1821
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 16:11:57 2021 -0500
+
+    Merge branch 'develop' into dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.7
+
+[33mcommit 2c2a4e07eedee44cb7cad566cd63623596abc052[m
+Merge: 17ed620 6bf1821
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 16:11:16 2021 -0500
+
+    Merge branch 'develop' into feature/issue-320_Add-Postman-Installation-Instructions
+
+[33mcommit 15f67873f6c2e90c239a4f4752d36e7fe9520743[m
+Merge: e5b27b4 6bf1821
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 16:11:00 2021 -0500
+
+    Merge branch 'develop' into feature/issue-319_Add-Maven-Installation-Instructions-To-Readme
+
+[33mcommit f23e9175cfa10eda1ae2a088c798a4703eb012ee[m
+Merge: a9878a9 6bf1821
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 11:16:18 2021 -0500
+
+    Merge branch 'develop' into feature/issue-46_research-thread-monitor
+
+[33mcommit 5249f7a19a6de39e3915c406c8a08d28c4c9a4f6[m
+Merge: 38bdfbf 6bf1821
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Dec 20 08:12:38 2021 -0500
+
+    Merge branch 'develop' into feature/issue-317-add-git-documentation
+
+[33mcommit 6bf182153cb4f49a192024a4ff6b69ddf0de6b67[m
+Author: Alex Tighe <599747+atighe@users.noreply.github.com>
+Date:   Fri Aug 6 14:26:41 2021 -0400
+
+    Temporarily ignore the integration tests while we sort out PWS->IBM Cloud.
+
+[33mcommit b25591cf1909baf0736d75d06bcd61652e515801[m
+Author: Alex Tighe <599747+atighe@users.noreply.github.com>
+Date:   Fri Aug 6 09:36:31 2021 -0400
+
+    Update build.yml
+
+[33mcommit 81b0260dc027c8b2533442276fbcc3703eadacac[m
+Author: Alex Tighe <599747+atighe@users.noreply.github.com>
+Date:   Fri Aug 6 09:31:55 2021 -0400
+
+    Create build.yml for sonarcloud
+
+[33mcommit d50375b8b9789bffefdbc39c032c78389ef15dbb[m
+Author: Alex Tighe <599747+atighe@users.noreply.github.com>
+Date:   Fri Aug 6 09:18:34 2021 -0400
+
+    Adding sonarcloud properties
+
+[33mcommit a9878a9f6cb067d543893ff94b215a23c5424370[m
+Merge: 7474171 f45297b
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:35:28 2021 -0400
+
+    Merge branch 'develop' into feature/issue-46_research-thread-monitor
+
+[33mcommit e5b27b4c676b16243966214330c8edb1c7a84bd8[m
+Merge: 51cbbfa f45297b
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:34:40 2021 -0400
+
+    Merge branch 'develop' into feature/issue-319_Add-Maven-Installation-Instructions-To-Readme
+
+[33mcommit 17ed620bb0b724506b4f1971e76a26a249eb06ea[m
+Merge: 3f2dcd9 f45297b
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:33:26 2021 -0400
+
+    Merge branch 'develop' into feature/issue-320_Add-Postman-Installation-Instructions
+
+[33mcommit f7306a7f43fe660fe28dd14d06337efacdbfcaf4[m
+Merge: 0f9604c f45297b
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:22:42 2021 -0400
+
+    Merge branch 'develop' into dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.7
+
+[33mcommit 38bdfbf9065e777641133a0cefec4117b940c118[m
+Merge: 110f059 f45297b
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:19:44 2021 -0400
+
+    Merge branch 'develop' into feature/issue-317-add-git-documentation
+
+[33mcommit f45297be208e0cf10de7fb6582b919cffc10612d[m
+Merge: 474b84e 2264022
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 7 17:19:23 2021 -0400
+
+    Merge pull request #351 from galatea-associates/feature/issue-314-fix-sonar-issues
+    
+    #314 resolve sonar critical and major issues
+
+[33mcommit 747417194f959a410327fcda95a11cb88f35744c[m
+Author: Todd Wellman <toddpwellman@gmail.com>
+Date:   Tue Apr 20 13:50:26 2021 -0400
+
+    update readme with info about visualvm that can be used for thread monitoring
+
+[33mcommit 3f2dcd9c7870b73ebf4bfaab6fa191190a9b743c[m
+Author: curtis.scheffel@gmail.com <41fr3dtheTurtleisGreat>
+Date:   Mon Apr 19 09:15:37 2021 -0400
+
+    Added instructions for installing and using Postman
+
+[33mcommit 51cbbfaa5c8c75ce5b2c7c6c4165353c10d7acc5[m
+Author: curtis.scheffel@gmail.com <41fr3dtheTurtleisGreat>
+Date:   Fri Apr 16 14:28:02 2021 -0400
+
+    Added instructions for installing Maven
+
+[33mcommit 0f9604c3034306b03f3e7252c8c8797a84c08ee3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Jan 20 23:27:22 2021 +0000
+
+    Bump jackson-databind from 2.9.10.3 to 2.9.10.7
+    
+    Bumps [jackson-databind](https://github.com/FasterXML/jackson) from 2.9.10.3 to 2.9.10.7.
+    - [Release notes](https://github.com/FasterXML/jackson/releases)
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 417b8f6bf99748d63e155353bda228eb153c5aef[m
+Author: Alex Power <powera17@hotmail.com>
+Date:   Mon Dec 28 14:21:18 2020 -0500
+
+    Changes for intro project.
+
+[33mcommit 110f059e13e4a09dbf2752b9c80458533ffa11f6[m
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Tue Dec 22 15:30:19 2020 -0500
+
+    #317 update text
+
+[33mcommit 409d5e4a28dd64c1440e722f17690dd64f062bed[m
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Tue Dec 22 15:21:56 2020 -0500
+
+    #317 add documentation to readme regarding installing git and cloning project
+
+[33mcommit 226402202a447fc86ed7407da75e9011b1df0c6f[m
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Mon Dec 21 15:54:39 2020 -0500
+
+    #314 resolve sonar critical and major issues
+
+[33mcommit 474b84ed6ce405fe3e4fdaa2aaba38079e3881e3[m
+Merge: 9e6cef8 8e6d2dc
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Jun 22 14:07:14 2020 -0400
+
+    Merge pull request #261 from galatea-associates/feature/issue-253_fix-cache-config
+    
+    Issue-253 Configure cache so EhCache is used instead of the default cache
+
+[33mcommit 8e6d2dc89da8c4fe998dfc86e3c0af9802cd8487[m
+Merge: 5aedc4b 9e6cef8
+Author: William Silva <silva@galatea-associates.com>
+Date:   Sun Apr 26 11:46:05 2020 -0400
+
+    Merge branch 'develop' into feature/issue-253_fix-cache-config
+
+[33mcommit 5aedc4b9278378aa616533c2febd5180ef2589f8[m
+Author: William Silva <silva@galatea-associates.com>
+Date:   Sun Apr 26 11:41:05 2020 -0400
+
+    Issue-253 Change name of cache manager factory bean
+    
+    Changes the name of the cache manager factory bean to reflect that it is actually a cache manager factory bean and not a cache manager
+
+[33mcommit 9e6cef8619ec409521fb6901ba8a0735b53e6dc4[m
+Merge: a37c668 263f384
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Thu Mar 5 08:19:32 2020 -0500
+
+    Merge pull request #325 from galatea-associates/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.3
+    
+    Bump jackson-databind from 2.9.10.1 to 2.9.10.3
+
+[33mcommit 263f3846fe0966554672922c67ceb3aba15e1b18[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 4 22:08:39 2020 +0000
+
+    Bump jackson-databind from 2.9.10.1 to 2.9.10.3
+    
+    Bumps [jackson-databind](https://github.com/FasterXML/jackson) from 2.9.10.1 to 2.9.10.3.
+    - [Release notes](https://github.com/FasterXML/jackson/releases)
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a37c668d4dafd2c93413465d613b60c053a3bc39[m
+Merge: 8aa9742 8e05090
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Fri Feb 14 15:38:31 2020 -0500
+
+    Merge pull request #301 from galatea-associates/feature/issue-287-use-restassured-for-rest-controller-unit-tests
+    
+    Feature/issue 287 use restassured for rest controller unit tests
+
+[33mcommit 8e050907f536d330d1f4fab4fd245c26dd960d14[m
+Merge: 97869c6 8aa9742
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Feb 11 16:12:32 2020 -0500
+
+    Merge branch 'develop' into feature/issue-287-use-restassured-for-rest-controller-unit-tests
+
+[33mcommit 93ab438bfd881bb7fdc9cc985fd832cf61c92b8d[m
+Merge: 570dba6 8aa9742
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Mon Feb 10 15:13:49 2020 -0500
+
+    Merge branch 'develop' into feature/issue-253_fix-cache-config
+
+[33mcommit 8aa9742a888e5d3186b6c78f18483a76d4810af8[m
+Merge: 3ceb493 e4bdede
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Tue Jan 21 10:51:19 2020 -0500
+
+    Merge pull request #316 from galatea-associates/feature/315-sonar-test-coverage
+    
+    Feature/315 sonar test coverage
+
+[33mcommit 97869c640d4d521cd2c92511a9b4349e8ed0b0e4[m
+Merge: 0e5bdee 3ceb493
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Tue Jan 21 10:16:14 2020 -0500
+
+    Merge branch 'develop' into feature/issue-287-use-restassured-for-rest-controller-unit-tests
+
+[33mcommit e4bdede64f73e5518fd4c7ec4afcece306289379[m
+Merge: d94b58d 3ceb493
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Tue Jan 14 16:35:41 2020 -0500
+
+    Merge branch 'develop' into feature/315-sonar-test-coverage
+
+[33mcommit d94b58d80bef1ae0fd96cbb5a1858f3d90d67417[m
+Author: Constance <Baltera@galatea-associates.com>
+Date:   Tue Jan 14 16:30:03 2020 -0500
+
+    #315 need explicit call to report to get the xml files
+
+[33mcommit 03bf160934395a9cf34389c26689ae2ad59144e5[m
+Author: Constance <Baltera@galatea-associates.com>
+Date:   Tue Jan 14 16:23:57 2020 -0500
+
+    #315 check in sonar whether the first option worked
+
+[33mcommit 318200e23a49b143786b13f53de933536303a71c[m
+Author: Constance <Baltera@galatea-associates.com>
+Date:   Tue Jan 14 16:18:00 2020 -0500
+
+    #315 update jacoco command hoping for xml files
+
+[33mcommit f45f5001f95eb9112f175470b88586b8c49ed8c6[m
+Author: Constance <Baltera@galatea-associates.com>
+Date:   Tue Jan 14 16:12:05 2020 -0500
+
+    #315 update jacoco version hoping for xml files
+
+[33mcommit 3ceb4935c01b931a2ada7f27f446193b0b0d5058[m
+Merge: cdfb326 331045c
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Fri Jan 10 11:37:20 2020 -0500
+
+    Merge pull request #313 from galatea-associates/feature/issue-311
+    
+    #311 wiremock to use random port
+
+[33mcommit 331045ce72c86e2d3de80e99048978ebb1247c3f[m
+Merge: 6e72b47 cdfb326
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Fri Jan 10 11:18:18 2020 -0500
+
+    Merge branch 'develop' into feature/issue-311
+
+[33mcommit 6e72b47d57da19bee1cc57451063aeee1984032b[m
+Author: Constance <Baltera@galatea-associates.com>
+Date:   Fri Jan 10 11:01:15 2020 -0500
+
+    #311 wiremock to use random port
+
+[33mcommit 0e5bdee01c28dbc8a8ba127157bd9de31c684b04[m
+Merge: 9f79a56 cdfb326
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 16:44:17 2020 -0500
+
+    Merge branch 'develop' into feature/issue-287-use-restassured-for-rest-controller-unit-tests
+
+[33mcommit cdfb32606251d6a229d6a0205ac90efd40036e6f[m
+Merge: 9b9c871 5839aa1
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 16:39:02 2020 -0500
+
+    Merge pull request #306 from galatea-associates/feature/issue-264-demonstrate-sleuth
+    
+    Issue 264: Demonstrate basic Sleuth tracing
+
+[33mcommit 5839aa1e5cd1256e24594d827771b97c4b12965d[m
+Merge: d95fcaf 9b9c871
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 16:20:16 2020 -0500
+
+    Merge branch 'develop' into feature/issue-264-demonstrate-sleuth
+
+[33mcommit 9b9c871551cab2f061668f3c19f038b7183307b7[m
+Merge: 3cb7899 392062a
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 16:16:27 2020 -0500
+
+    Merge pull request #305 from galatea-associates/feature/issue-304
+    
+    #304 add documentation to ensure protobuf java files are generated
+
+[33mcommit 9f79a56191974afc285417e19760ecfe9e20d9a6[m
+Merge: 8c63338 3cb7899
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 15:53:14 2020 -0500
+
+    Merge branch 'develop' into feature/issue-287-use-restassured-for-rest-controller-unit-tests
+
+[33mcommit 392062a1ce0b9b8ed070161bb15609db4b6846b0[m
+Merge: e03ec4e 3cb7899
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Thu Jan 9 15:33:23 2020 -0500
+
+    Merge branch 'develop' into feature/issue-304
+
+[33mcommit d95fcaff988674f83fa9e19a1b2001fe4b82a145[m
+Merge: 8222f8b 3cb7899
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 13:13:40 2020 -0500
+
+    Merge branch 'develop' into feature/issue-264-demonstrate-sleuth
+
+[33mcommit 3cb78996e5a99107bdfc334dd49fa4d17dad7dd7[m
+Merge: 8ec1351 e550e3c
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 11:57:24 2020 -0500
+
+    Merge pull request #303 from galatea-associates/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.1
+    
+    Bump jackson-databind from 2.9.9.2 to 2.9.10.1
+
+[33mcommit e550e3c199bb74bb2247aaafacfd73d9a4f6c1f0[m
+Merge: a27752c 8ec1351
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 11:46:11 2020 -0500
+
+    Merge branch 'develop' into dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.9.10.1
+
+[33mcommit 8ec135198c51dbd955b3f788ada92222498755d9[m
+Merge: f679434 813b365
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Thu Jan 9 11:39:51 2020 -0500
+
+    Merge pull request #308 from galatea-associates/feature/issue-279
+    
+    #279 log to console in addition to logging to file
+
+[33mcommit 813b365ab0e5e1f650781c766c8b978ddd720d2b[m
+Merge: 1baca52 f679434
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Wed Jan 8 16:57:14 2020 -0500
+
+    Merge branch 'develop' into feature/issue-279
+
+[33mcommit 8c633381d95325ca57f90c3660be94b59ff4af5a[m
+Merge: 2af0e0f f679434
+Author: cbaltera <cbaltera@users.noreply.github.com>
+Date:   Wed Jan 8 16:46:07 2020 -0500
+
+    Merge branch 'develop' into feature/issue-287-use-restassured-for-rest-controller-unit-tests
+
+[33mcommit f67943491bf3b384db430117196aa678549232c6[m
+Merge: 8ceeed6 39e8894
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Tue Jan 7 17:19:59 2020 -0500
+
+    Merge pull request #309 from galatea-associates/update-codeowners
+    
+    Update CODEOWNERS
+
+[33mcommit 39e8894f54495eb8e5464fa7959d2f23755ff027[m
+Author: Mike Gajda <github@mikegajda.com>
+Date:   Tue Jan 7 17:18:12 2020 -0500
+
+    Update CODEOWNERS
+    
+    Adding @mikegajda and @cbaltera
+
+[33mcommit 1baca5227aa394bb0ff20eb83a0b483d3618c557[m
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Fri Jan 3 10:16:33 2020 -0500
+
+    #279 update log4j configuration to log to console in addition to logging to file
+
+[33mcommit 8222f8b85b5809a6e8bc7398748f6ff0f7cbd26c[m
+Author: mcangemi <cangemi@galatea-associates.com>
+Date:   Thu Jan 2 13:30:26 2020 -0500
+
+    Issue 264: Use Sleuth Starter rather than Zipkin dependency since not yet leveraging and remove trace and span IDs from test profile log pattern
+
+[33mcommit be903923a5f1e6712d964e53e1485e7d206d8a03[m
+Author: mcangemi <cangemi@galatea-associates.com>
+Date:   Thu Jan 2 10:47:02 2020 -0500
+
+    Issue 264: Add Spring Cloud Sleuth dependency and include trace ID in log4j2 log pattern for distributed log tracing
+
+[33mcommit ec20c4b1aabe5a494f08451cbcf44035d2b59859[m
+Author: mcangemi <cangemi@galatea-associates.com>
+Date:   Thu Jan 2 10:27:03 2020 -0500
+
+    Issue 264: Add Spring Cloud Sleuth dependency and include trace ID in log4j2 log pattern for distributed log tracing
+
+[33mcommit e03ec4e5165ffd37cc1c8bad3a82cbc36b0b5a28[m
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Tue Dec 31 14:30:57 2019 -0500
+
+    #304 add documentation to ensure protobuf java files are generated
+
+[33mcommit a27752c80923c16cdb96bfed5107e625332fd012[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 13 07:16:52 2019 +0000
+
+    Bump jackson-databind from 2.9.9.2 to 2.9.10.1
+    
+    Bumps [jackson-databind](https://github.com/FasterXML/jackson) from 2.9.9.2 to 2.9.10.1.
+    - [Release notes](https://github.com/FasterXML/jackson/releases)
+    - [Commits](https://github.com/FasterXML/jackson/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2af0e0f589e0ac3f1c35194399cbfe438b54f00a[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Thu Sep 12 16:22:39 2019 +0100
+
+    #287 Add new test class for FuseHttpTraceFilter
+
+[33mcommit 4ebce96a561c55a5d7210d42bf129ebdc6d48265[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Thu Sep 12 10:59:28 2019 +0100
+
+    #287 Remove uneeded dependencies
+
+[33mcommit afbc891351c489ffaeb95669b996f4631755e39d[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Thu Sep 12 10:51:40 2019 +0100
+
+    #287 Add annotation so all test classes don't use application.properties
+    
+    Without this annotation tests in IexRestControllerTest, SettlementJmsListenerTest and TradeAgreementTranslatorTest were failing because they were also looking at application.properties rather than application.yml
+
+[33mcommit 570dba6bef2b9a8faf8969aed45590a16c37fb9c[m
+Author: William Silva <silva.w@husky.neu.edu>
+Date:   Wed Sep 11 22:41:14 2019 -0400
+
+    issue-253 Add EhCache test & move @Value cache-config as param
+
+[33mcommit e1a010b83a2ad1717e9cc950fb851cbc0e4941ad[m
+Merge: d0fc659 8ceeed6
+Author: William Silva <silva.w@husky.neu.edu>
+Date:   Wed Sep 11 19:58:51 2019 -0400
+
+    Merge branch 'develop' into feature/issue-253_fix-cache-config
+
+[33mcommit 4667c1c655f290953b3aeb1b78a080c9d78a8500[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 18:41:33 2019 +0100
+
+    #287 Complete copying updated tests to SettlementRestControllerTest
+
+[33mcommit 2b730ff99eb9e58ce7710cfce757ed63612d7ab2[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 18:30:39 2019 +0100
+
+    #287 Copy updated tests into SettlementRestControllerTest.java
+
+[33mcommit bb946bc52a29eb26f5f8366be445f6d482c57ef3[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 18:11:11 2019 +0100
+
+    #287 User MediaType rather than ContentType as that is the current setup
+
+[33mcommit acf03104dd253327a6ae05a3819e9b7f71cf427a[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 17:55:40 2019 +0100
+
+    #287 Replace hardcoded status codes
+
+[33mcommit 331b5c475f0dd00cdb8fb46a81b904aef2788825[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 17:49:36 2019 +0100
+
+    #287 Add testGetMissionsFound_CSV and testGetMissionsFound_XLSX
+
+[33mcommit e4874465981ac9f3b32130252e9bb140dd6c92db[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 16:52:00 2019 +0100
+
+    #287 Tidy up test class
+
+[33mcommit e8bc4162b56c980396b6edfbe69207efed9a07ee[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 15:03:25 2019 +0100
+
+    #287 Use RestAssured for all remaining SettlementRestController unit tests
+
+[33mcommit 11a3d328253652396559afaa179261425c4600dd[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Sep 11 09:46:08 2019 +0100
+
+    #287 Add testGetMissionNotFound
+
+[33mcommit 110d59b1e9a48401f9a673acefa835b13c5ed275[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Tue Sep 10 17:35:00 2019 +0100
+
+    #287 Have more SettlementRestController tests use RestAssured
+
+[33mcommit 3384bc9506c729f7621da52e9eba2b9de4406a35[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Tue Sep 10 15:59:52 2019 +0100
+
+    #287 Add First RestAssured Test for XML
+
+[33mcommit cf8f669fd110e1e1f6d45cb0558a7e9e59433f3f[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Tue Sep 10 11:24:52 2019 +0100
+
+    \#287: Initial commit of one working test using RestAssured
+
+[33mcommit 8ceeed6d730fa210a9bafa02262a67cff71395c2[m
+Merge: 45dc9a1 54bf906
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Tue Aug 27 10:35:08 2019 -0400
+
+    Merge pull request #299 from galatea-associates/feature/issue-292-java-11
+    
+    Feature/issue 292 java 11
+
+[33mcommit 54bf9061a811dfabcab654f2632762dabbd1d9c1[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Tue Aug 27 09:37:15 2019 -0400
+
+    #292: readme updates
+
+[33mcommit 048ec030d29d9661cf04e059a270da53d551c814[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Mon Aug 26 15:24:35 2019 -0400
+
+    #292: configured manifests to use java 11
+
+[33mcommit 8d6067af3bf8203e8218ec96a5d1c771c678eb39[m
+Merge: dd7375a 45dc9a1
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Mon Aug 26 10:56:17 2019 -0400
+
+    Merge branch 'develop' of https://github.com/galatea-associates/fuse-starter-java into feature/issue-292-java-11
+
+[33mcommit dd7375a778d245cd340982a04785b94c6a3d3fc8[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Mon Aug 26 10:52:24 2019 -0400
+
+    #292: upgraded jacoco version in jenkinsfile
+
+[33mcommit d3ecc8e49fe5a5a5b0255e4292859c036187e2a7[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Mon Aug 26 09:57:26 2019 -0400
+
+    #292: removed arglines on surefire and failsafe plugins (were breaking params we pass the tests)
+
+[33mcommit 21826bea6a295940e7d0aca4a605657feb029628[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Mon Aug 26 08:50:40 2019 -0400
+
+    #292: added java 11 target and reflection allowing in tests
+
+[33mcommit 45dc9a1479a6ff43e8845696cffb7688dc6d4114[m
+Merge: d2f46f4 6fec306
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Fri Aug 23 14:24:12 2019 -0400
+
+    Merge pull request #290 from galatea-associates/feature/try-process-health-check
+    
+    set health-check-type to process, when we use port 8080 for the healt…
+
+[33mcommit 09d35c48bc5c10f21265d89509a544aa207a4a5e[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Fri Aug 23 13:38:08 2019 -0400
+
+    #292: manually added jaxb dependencies for java 11
+
+[33mcommit 6fec306afad481d0830decec4c520ad690a8b379[m
+Merge: fef823f d2f46f4
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Fri Aug 23 11:58:06 2019 -0400
+
+    Merge branch 'develop' into feature/try-process-health-check
+
+[33mcommit d2f46f4907db2807158637759e9011773a93f66f[m
+Merge: ef5bfcd 953138c
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Fri Aug 23 11:45:05 2019 -0400
+
+    Merge pull request #298 from galatea-associates/feature/issue-297-xolstice
+    
+    #297: added xolstice plugin and removed generated protobuf java file
+
+[33mcommit fef823fd70624782f094655ce8e9147558a17cd5[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 22 09:27:09 2019 -0400
+
+    Update local manifest to match integration test manifest
+
+[33mcommit 953138c0e2e5b53873783c3beac865675f3d1f31[m
+Merge: b5094bd ef5bfcd
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 15:50:33 2019 -0400
+
+    Merge branch 'develop' of https://github.com/galatea-associates/fuse-starter-java into feature/issue-297-xolstice
+
+[33mcommit b5094bd146a85643e69b08afb9f16a92bcf3c9b5[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 15:36:59 2019 -0400
+
+    #297: added xolstice plugin and removed generated protobuf java file
+
+[33mcommit b756c5e9b88633a49ca2aa24362850b6a81dcf31[m
+Merge: d18557a ef5bfcd
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Wed Aug 21 14:16:00 2019 -0400
+
+    Merge branches 'develop' and 'feature/try-process-health-check' of https://github.com/GalateaRaj/fuse-starter-java into feature/try-process-health-check
+
+[33mcommit ef5bfcd01b735b91daf4d9453c5fcc44e16814b4[m
+Merge: e572610 5bbe0b5
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Wed Aug 21 14:00:32 2019 -0400
+
+    Merge pull request #293 from galatea-associates/feature/issue-288-spring-boot-2.1
+    
+    Feature/issue 288 spring boot 2.1
+
+[33mcommit 5bbe0b5064265dfe745b3f3fcce0673f2a7aa6e9[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 13:50:23 2019 -0400
+
+    #288: put cleaned request in MDC
+
+[33mcommit 2c801350cfcc6963a580d87d79d6cdba3e6382b7[m
+Merge: d7a6a73 e572610
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 13:41:10 2019 -0400
+
+    Merge branch 'develop' of https://github.com/galatea-associates/fuse-starter-java into feature/issue-288-spring-boot-2.1
+    
+    # Conflicts:
+    #       src/main/java/org/galatea/starter/entrypoint/BaseRestController.java
+
+[33mcommit e5726101ac3f6a0cb4ea62c028c8ec74a60641d6[m
+Merge: 291c9d1 c513f0d
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Wed Aug 21 11:01:24 2019 -0400
+
+    Merge pull request #284 from galatea-associates/feature/issue-243-protect-against-log-forging-TomEd
+    
+    Update so newlines will be filtered from logging
+
+[33mcommit d7a6a73dd63ce532360745ecec2d10fc4ff10a95[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 09:51:55 2019 -0400
+
+    #288: fixed compilation errors
+
+[33mcommit fc26c5ae80ec3c7427a4dfb6bdff9d11c4683e01[m
+Merge: f72bcea 291c9d1
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 09:44:23 2019 -0400
+
+    Merge branch 'develop' of https://github.com/galatea-associates/fuse-starter-java into feature/issue-288-spring-boot-2.1
+
+[33mcommit f72bceac776945a1bb5272b850349096fee5b151[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 21 09:19:10 2019 -0400
+
+    #288: removed tracer and moved logic into appropriate classes
+
+[33mcommit c513f0dbf0fbaf3771074cea567933ac76f84cb6[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Aug 21 12:54:23 2019 +0100
+
+    Code Review Changes
+
+[33mcommit d18557a4189fb6548fe9ea89d50b5d4a0596a5d9[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 11:59:10 2019 -0400
+
+    Change timeout attribute name in manifest.
+
+[33mcommit fb8488c7f7cad11eeb792c79e9f537313eaeb2cb[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 11:38:31 2019 -0400
+
+    Change app path from backslash to forward slash.
+
+[33mcommit 11d2d782dedc9f5a8e3fedeb31cac24278f87408[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 11:32:30 2019 -0400
+
+    Try hardcoding port
+
+[33mcommit 29abfbc9946ae11386e9a4ec88948c76a107afa2[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 11:11:09 2019 -0400
+
+    Change variable syntax in manifest file.
+
+[33mcommit 001bdba9453f9d89b65efcf276ecdd0b1526956c[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 10:36:01 2019 -0400
+
+    Fix manifest filename reference.
+
+[33mcommit 4fa00844416ac67aeceb7faeec2e8addf848cf5d[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 20 10:12:20 2019 -0400
+
+    Use the content replace jenkins plugin instead of variable replace.
+
+[33mcommit 422273db26d08a358b2c9fe80e602112c36f1479[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Mon Aug 19 15:21:19 2019 -0400
+
+    increase health check timeout, use variable replace jenkins plugin
+
+[33mcommit 700397d82fb3acbf202e0c116bda0561fa3f1cec[m
+Merge: 5099623 291c9d1
+Author: GalateaTom <edwards@galatea-associates.com>
+Date:   Fri Aug 16 09:56:40 2019 +0100
+
+    Merge branch 'develop' into feature/issue-243-protect-against-log-forging-TomEd
+
+[33mcommit 5099623e91797599391f2f5750adb6b740433c18[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Fri Aug 16 09:49:31 2019 +0100
+
+    Make changes recommended by SonarCloud
+
+[33mcommit 62e26c9311fdd0e8fc83b7256d56a44afa9d3c3c[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 16:10:36 2019 -0400
+
+    #288: sonar fixes 2
+
+[33mcommit 4e905abe9c3390d7d2c4c05281a28f00cb2b65b9[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 16:03:29 2019 -0400
+
+    #288: sonar fixes
+
+[33mcommit b6928620a182183a7b143880b5f980a7442ae25b[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 15:56:14 2019 -0400
+
+    #288: checkstyle fixes
+
+[33mcommit 40a4ff305d3af197e7944894b5b9b746df71c65f[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 15:37:41 2019 -0400
+
+    #288: migration to spring boot 2.1
+
+[33mcommit 3a5a41dde513fdfb83b480d5ff24b4f4d2adba43[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 14:58:21 2019 -0400
+
+    #288: renamed classes
+    fixed deprecated behavior
+
+[33mcommit e83e462c14f07a3500b96b49cd460a2e67b5a57d[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Wed Aug 14 14:44:53 2019 -0400
+
+    #288: migration to spring boot 2.0
+    rewrote tracing code to match new actuator structure
+
+[33mcommit 3776132eec66e76649ab5dcf9f7e2afcbe159d5a[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Aug 14 18:06:01 2019 +0100
+
+    Break up long comments to fit 100 character line limit
+
+[33mcommit 50eea08a205a7e4addcfe954a2b1721e36d79716[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Aug 14 17:42:02 2019 +0100
+
+    Add temporary fix to remove special characters from request params
+
+[33mcommit d1ea6097896e3d5dce5df2d849d7eac2be1f0a0d[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Aug 14 17:27:06 2019 +0100
+
+    Revert "Update so newlines will be filtered from logging"
+    
+    This reverts commit 258427e0a7c6512797c545feb5c42d16f26f5551.
+
+[33mcommit 92ca5e4ae9aa7931c76525294546f3e4a0b393f6[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Wed Aug 14 17:26:56 2019 +0100
+
+    Revert "Remove Unnecessary Exclusions"
+    
+    This reverts commit 22620d8fa1fcb19690fffc237786154b190fa343.
+
+[33mcommit 1aee20fbdea97fa320a776b44cf82ebb8e14cb11[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Mon Aug 12 10:56:10 2019 -0400
+
+    try setting the health-check-type to process in the Jenkinsfile, so it will be picked up for the integration builds.
+
+[33mcommit 3c7cef4e7a49eb0b35211d5d20fc17a9aaf179f6[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Mon Aug 12 10:43:13 2019 -0400
+
+    set health-check-type to process, when we use port 8080 for the health check it seems to not work most of the time and fail the build.  Using port will randomly succeed, maybe it's a timeout issue, but process seems to work more consistently.
+
+[33mcommit 291c9d13083e06c0dd54f05178ace6de4a40ce2e[m
+Merge: 5083fa8 64f6762
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Fri Aug 9 11:51:37 2019 -0400
+
+    Merge pull request #259 from galatea-associates/feature/issue-231_jpa-crud-operations
+    
+    Feature/issue-231 JPA CRUD operation examples #231
+
+[33mcommit 64f67626a519bf452fefbc3113cfc6ebc088ce3a[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Fri Aug 9 11:23:48 2019 -0400
+
+    #231 Remove ID and version from postman create missions example
+
+[33mcommit 60a694f33abdf72c5f89a983c2de14617e36542f[m
+Merge: 1c4d313 5083fa8
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Fri Aug 9 09:04:15 2019 -0400
+
+    Merge branches 'develop' and 'feature/issue-231_jpa-crud-operations' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-231_jpa-crud-operations
+    
+    # Conflicts:
+    #       src/main/resources/application.yml
+    #       src/postman/Fuse-Starter-Java.postman_collection.json
+
+[33mcommit 1c4d313a3b23cede9e020cba5ae65fdedd2fbb33[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Fri Aug 9 08:59:11 2019 -0400
+
+    #231 Fix integration tests
+
+[33mcommit 5083fa8a71f06689c1e83dfdd1ecd2e2d1540ba2[m
+Merge: 2bc1ffd 1d5ab99
+Author: GalaHarley <51339284+GalaHarley@users.noreply.github.com>
+Date:   Thu Aug 8 11:50:52 2019 -0400
+
+    Merge pull request #277 from galatea-associates/feature/23-demonstrate-rest-call-with-feign
+    
+    Issue 23 - Added a Feign Client with examples of how to make requests…
+
+[33mcommit 1d5ab99b90907ad84da09f9d97cfe7cfd3b53110[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 11:35:25 2019 -0400
+
+    #23: added test for empty symbols param case
+
+[33mcommit 476279b34a7668f92cf08cf32f65f56ffd11f8cd[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 11:14:35 2019 -0400
+
+    #23: added the correct wiremock dependency
+    spring tests now run under "test" properties
+
+[33mcommit d6a7f57bcaaf214dbe47ceec18da8689a58fe807[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 10:32:33 2019 -0400
+
+    #23: added postman examples for IEX controller
+
+[33mcommit 662624e28719210e3b08de0d52068cd6455bc85d[m
+Merge: 48876b1 2bc1ffd
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 10:30:43 2019 -0400
+
+    Merge branches 'develop' and 'feature/issue-231_jpa-crud-operations' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-231_jpa-crud-operations
+
+[33mcommit cb5df731f620ab56d218a4e16cb15dd68b60e61c[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 10:22:10 2019 -0400
+
+    #23: added stubs created with WireMock Recorder (see http://wiremock.org/docs/record-playback/)
+
+[33mcommit 48876b13eacec57de09164cda30c4331722675e6[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 10:08:51 2019 -0400
+
+    #231 Fix checkstyle
+
+[33mcommit efcf6ba8214423860f593ac369c78e09fb327e5e[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 10:07:47 2019 -0400
+
+    #231 Fix code smell
+
+[33mcommit 79575badbc5808bce6405db23cf6600313227503[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 09:59:05 2019 -0400
+
+    #231 checkstyle fix
+
+[33mcommit 0026e3c25aebb4df7efcf8203ccc361b681985be[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 09:57:00 2019 -0400
+
+    #231 fix sonar code smells
+
+[33mcommit 0bbf97ca359adc43a51583e504c2d925a0431d3d[m
+Merge: 329deed 2bc1ffd
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 09:53:30 2019 -0400
+
+    Merge branch 'develop' of https://github.com/galatea-associates/fuse-starter-java into feature/23-demonstrate-rest-call-with-feign
+    
+    # Conflicts:
+    #       pom.xml
+
+[33mcommit 329deed22472370f1cffb68d31c925a563961b5f[m
+Author: GalaHarley <harley@galatea-associates.com>
+Date:   Thu Aug 8 09:48:02 2019 -0400
+
+    #23: swapped out spring cloud dependency for base wiremock dependency
+    small PR cleanups
+
+[33mcommit 2692508d5519cc7660f35471100283e40e4ce705[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 8 09:20:11 2019 -0400
+
+    #231 Update settlementMissionMessageTranslator name
+
+[33mcommit 2bc1ffda3b4aea8c3a6585a7c0c19e1e051b2db3[m
+Merge: 824fbd5 fa140a4
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Thu Aug 8 09:04:39 2019 -0400
+
+    Merge pull request #286 from galatea-associates/feature/issue-40-set-request-success-to-false-on-400
+    
+    #40 -- set request-success to false for 400s.  400s don't throw an ex…
+
+[33mcommit fa140a4df26563ee8cbf7155f203d54a6478437e[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Thu Aug 8 08:50:55 2019 -0400
+
+    #40 -- fix sonar code smell, return directly rather than assigning to a local and then returning.
+
+[33mcommit c8003f71c0ff80e8f61ed0d3ac47fa879b88f523[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Thu Aug 8 08:26:07 2019 -0400
+
+    #40 -- fix checkstyle issue.  Should have used the auto-formatter...
+
+[33mcommit 23991a776cdb1da3f4f122ae504dd4baf15ef855[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Wed Aug 7 17:14:20 2019 -0400
+
+    #231 Checkstyle fixes
+
+[33mcommit 3e97817df95ea741b380d5a24d6e14fff29b7bc5[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Wed Aug 7 17:08:25 2019 -0400
+
+    #231 Updates to SettlementRestController should now be called with SettlementMissionMessage JSON object.  Removed version and id from TradeAgreement object
+
+[33mcommit 936a98b345cc4acd1009407938f7720f8191c0bb[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 6 14:41:30 2019 -0400
+
+    #231 Update postman examples
+
+[33mcommit ca1b4c841ce2152b54f994d47cc3596ef97fd7cb[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 6 12:07:10 2019 -0400
+
+    #231 Add newline EOF
+
+[33mcommit a935620c6016eb8fe148bb9ea738d0a1bfde8b77[m
+Merge: 1dd78ff 824fbd5
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 6 12:06:01 2019 -0400
+
+    Merge branches 'develop' and 'feature/issue-231_jpa-crud-operations' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-231_jpa-crud-operations
+
+[33mcommit 1dd78ffe384c378833bb7696c9ca0f9b1bb4c388[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 6 10:51:29 2019 -0400
+
+    #231 Change HTTP response code on oudated version
+
+[33mcommit 896dabe82551073ab1edc17d673e5a0561604857[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Tue Aug 6 10:34:36 2019 -0400
+
+    #231 Fix tests, add version to protobuf messages
+
+[33mcommit 4a9a2121e95be1ec65153138f7b717a89c85e906[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Tue Aug 6 09:31:56 2019 -0400
+
+    #40 -- set request-success to false for 400s.  400s don't throw an exception so we have to do an explicit check against the http response object in order to get the right value populated in the trace.
+
+[33mcommit e2a1014c515482e82d8bc0fb0be95d7f4afa084b[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Mon Aug 5 15:17:13 2019 -0400
+
+    #231 Add optimistic locking with versions in the SettlementMission
+
+[33mcommit b3535773d63668fef64c906a5dac9f6abc516806[m
+Author: Eric Collins <ecollins@Galatea.com>
+Date:   Mon Aug 5 14:19:42 2019 -0400
+
+    #23 -- use WireMock in IEX service unit tests
+
+[33mcommit 824fbd56919d5d245d684f1c05a593a8142dda9f[m
+Merge: 26ceade 9376aee
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Mon Aug 5 11:24:15 2019 -0400
+
+    Merge pull request #285 from galatea-associates/feature/issue-283-fix-jackson-security-vulnerability
+    
+    Update Version of Jackson Jars
+
+[33mcommit 9376aee07fb442fa870f7daec27def8305b7846a[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Mon Aug 5 13:19:18 2019 +0100
+
+    Update Version of Jackson Jars
+    
+    In order to fix vulnerability version 2.9.9.2 of jackson-databind must be used.  Also the versions of jackson-core and jackson-annotation must match version of jackson-databind.
+
+[33mcommit e8b9e362da647ce377c90b28bba95cb6d09fd120[m
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Fri Aug 2 14:26:14 2019 -0400
+
+    #231 Fix checkstyle issues
+
+[33mcommit 22620d8fa1fcb19690fffc237786154b190fa343[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Fri Aug 2 17:43:03 2019 +0100
+
+    Remove Unnecessary Exclusions
+    
+    The dependency versions stated elsewhere in the pom will override the transitive dependencies automatically, so no need to exclude those transitive dependencies
+
+[33mcommit 258427e0a7c6512797c545feb5c42d16f26f5551[m
+Author: Thomas Edwards <edwards@galatea-associates.com>
+Date:   Fri Aug 2 14:38:26 2019 +0100
+
+    Update so newlines will be filtered from logging
+
+[33mcommit f1f8facb3aacf6b68efd9d593c9c8bc909bfb6c0[m
+Merge: 6f05381 26ceade
+Author: Sean Anderson <anderson@galatea-associates.com>
+Date:   Thu Aug 1 14:38:06 2019 -0400
+
+    Merge branches 'develop' and 'feature/issue-231_jpa-crud-operations' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-231_jpa-crud-operations
+    
+    # Conflicts:
+    #       src/main/java/org/galatea/starter/domain/rpsy/ISettlementMissionRpsy.java
+    #       src/main/java/org/galatea/starter/entrypoint/BaseSettlementRestController.java
+    #       src/main/java/org/galatea/starter/entrypoint/SettlementRestController.java
+    #       src/main/java/org/galatea/starter/service/SettlementService.java
+    #       src/main/resources/application.yml
+    #       src/test/java/org/galatea/starter/entrypoint/SettlementRestControllerTest.java
+
+[33mcommit 26ceade5c5051ce2dfb99d5a45a63a9e03258f40[m
+Merge: 2f117e9 40c5db2
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Wed Jul 31 13:53:49 2019 -0400
+
+    Merge pull request #257 from galatea-associates/feature/77
+    
+    Feature/77
+
+[33mcommit 3e10e826a9356fd03087a9737ae22d6995ae8ee2[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Wed Jul 31 11:32:44 2019 -0400
+
+    Issue 77 - Added test coverage.
+
+[33mcommit d5f7868f94d2ba0731345f181af69d78eae44b8b[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 17:27:14 2019 -0400
+
+    Issue 77 - Added test coverage.
+
+[33mcommit 139c36cc1243c6f2e7348e29e100df7e11db37fe[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 16:49:47 2019 -0400
+
+    Issue 77 - Added rest controller to expose IEX data from fuse.
+
+[33mcommit 4cc85fa5d6da418c4eaad092fe5a9b41b82f4880[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 11:27:07 2019 -0400
+
+    Issue 77 - Fixed sonar code smells.
+
+[33mcommit b961fb7bb05331ec3d83be498fc33c15a0834a9f[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 10:34:00 2019 -0400
+
+    Issue 77 - Fixed checkstyle issues.
+
+[33mcommit 40c5db2968497484f7e463669f4dafd73029e6c4[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 10:22:08 2019 -0400
+
+    Issue 77 - Changed comment to trigger build in Jenkins.
+
+[33mcommit 44248514073c290c2f0559bed0812d9ea4fb75c7[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Mon Jul 29 09:53:38 2019 -0400
+
+    Issue 23 - Added comment for OpenFeign dependency.
+
+[33mcommit fec517af8a4ba5593f40ab77c44debb4f88cb14e[m
+Author: Conor Ebbs <30809168+GalateaEbbs@users.noreply.github.com>
+Date:   Sun Jul 28 15:35:42 2019 -0400
+
+    Issue 23 - Added a Feign Client with examples of how to make requests to the free and open source IEX API (https://iextrading.com/developer/docs/).
+
+[33mcommit 1b2205c3e8603cd165c08bd0fa933b757879a9c8[m
+Merge: a47197a 2f117e9
+Author: Conor Ebbs <30809168+GalateaEbbs@users.noreply.github.com>
+Date:   Sat Jul 27 22:56:18 2019 -0400
+
+    Merge branches 'develop' and 'feature/77' of https://github.com/GalateaRaj/fuse-starter-java into feature/77
+    
+    # Conflicts:
+    #       pom.xml
+    #       src/main/resources/log4j2.yml
+
+[33mcommit 2f117e932c67114d0b9dde9c20594f6120ce9bfb[m
+Merge: ba56646 1796983
+Author: GalateaFarhaad <50337114+GalateaFarhaad@users.noreply.github.com>
+Date:   Thu Jun 27 15:02:20 2019 -0400
+
+    Merge pull request #273 from GalateaRaj/feature/issue-176-Fix-additional-Sonar-issues
+    
+    Feature/issue 176 fix additional sonar issues
+
+[33mcommit 17969830ce7642dd930997daad47b8f99ca72aff[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 27 14:04:15 2019 -0400
+
+    #176 Fix Jenkins build issue attempt 2
+    
+    Quotes and newline test:
+    ' foo ' bar " ' baz " quux "
+
+[33mcommit d0fc7a6ba5d2b43360a048a3b02b5b408752c2d6[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 27 11:50:01 2019 -0400
+
+    #176 Fix Jenkins build issue where post-build Slack notification doesn't like if last commit message contains quotes
+    
+    Looks like sh didn't like my use of "doesn't" in my last commit message. Some more quotes, as a test:
+    ' foo ' bar " ' baz " quux "
+    I wonder if that newline up there also would have caused problems before this fix.
+
+[33mcommit b6466af34f8fac1785017259d58a5e23d8d2fcff[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Wed Jun 26 14:29:34 2019 -0400
+
+    #176 Fix problem where Sonar doesn't properly count new lines in a branch build
+
+[33mcommit 9f6b01df2d1722ee4e6731f372a0de25e3c75567[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Wed Jun 26 14:25:44 2019 -0400
+
+    #176 Fix Sonar coverage failures in develop that didn't show up in the previous branch/PR scan
+
+[33mcommit ba5664677b09b7ace45bdf83554efdf9f2a22eb6[m
+Merge: 127a3f9 1f191f0
+Author: GalateaFarhaad <50337114+GalateaFarhaad@users.noreply.github.com>
+Date:   Tue Jun 25 10:20:20 2019 -0400
+
+    Merge pull request #271 from GalateaRaj/feature/issue-176-Configure-coding-standards
+    
+    Feature/issue 176 configure coding standards
+
+[33mcommit 1f191f02ca10c66f55a95e79b76222d073d2f45d[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon Jun 24 13:29:16 2019 -0400
+
+    #176 Add Eclipse auto-formatting rules
+
+[33mcommit 2db7adfce493d4c7c40278dcc1880be82ef86c78[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 20 11:25:36 2019 -0400
+
+    #176 Fix issues raised by newly-added Sonar rules
+
+[33mcommit 397fcdae12fe53875b0c2d2db23902bb139d8131[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Wed Jun 19 09:31:11 2019 -0400
+
+    #176 Manually fix remaining checkstyle issues
+
+[33mcommit 765c79d1f6f0c802140d4dd96cd5604720e17730[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Wed Jun 19 14:05:44 2019 -0400
+
+    #176 Add and apply IntelliJ code auto-formatting rules
+
+[33mcommit e87563d367d39696a1a990d6d6266d203802ad3e[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon Jun 17 15:23:18 2019 -0400
+
+    #176 Update checkstyle rules and make checkstyle run as part of the maven build
+
+[33mcommit 127a3f9ff58624d21b0646f69cd56dfc0c826c18[m
+Merge: 35906ad 3685a80
+Author: GalateaFarhaad <50337114+GalateaFarhaad@users.noreply.github.com>
+Date:   Mon Jun 17 15:42:26 2019 -0400
+
+    Merge pull request #270 from GalateaRaj/feature/issue-267-Improve-build-logs
+    
+    Feature/issue 267 improve build logs
+
+[33mcommit 3685a80caa1c61fe98f6525bc3a49e85f6441bee[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon Jun 17 14:26:59 2019 -0400
+
+    #267 Change log directory in IntelliJ run config
+
+[33mcommit dcd37f6643013413642f9d031f7454800426ed63[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon Jun 17 11:38:34 2019 -0400
+
+    #267 Fix missing application logs during Jenkins builds and reduce log noise
+
+[33mcommit 35906ad987009bfddea883f9bb350f4be52b5fe6[m
+Merge: 1ac1634 8914199
+Author: GalateaFarhaad <50337114+GalateaFarhaad@users.noreply.github.com>
+Date:   Fri Jun 14 17:58:46 2019 -0400
+
+    Merge pull request #266 from GalateaRaj/feature/issue-205-Add-csv-and-xls-content-type-support
+    
+    Feature/issue 205 add csv and xls content type support
+
+[33mcommit 89141991233b2bddc537d58995adddede4081651[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 13 12:17:48 2019 -0400
+
+    #205 Change how test data is generated
+
+[33mcommit a42eca83256b1c2f60a333827f4149b8f793a083[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon Jun 10 16:35:57 2019 -0400
+
+    #205 Fix Sonar code smells
+
+[33mcommit a6f0ecc829aec2a0a6f4137c487d6d1392f0d346[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 6 15:32:52 2019 -0400
+
+    #205 Fix Jenkins build failure caused by Jacoco-injected synthetic variable
+
+[33mcommit d4d878f1e9ccf55030e096b7f5e1ab5c4c068b24[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu Jun 6 14:10:21 2019 -0400
+
+    #205 Add support for returning csv and xlsx content types in an HTTP response
+
+[33mcommit 6f05381b93409149e5736eb08d749f79f7818c35[m
+Merge: fe2fd87 1ac1634
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri May 24 09:09:23 2019 -0400
+
+    Merge branch 'develop' into feature/issue-231_jpa-crud-operations
+
+[33mcommit 1ac16347d199572c1619d5a3f754f82fdd3e3449[m
+Merge: 14971f6 83ad5f7
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri May 24 08:54:44 2019 -0400
+
+    Merge pull request #265 from GalateaRaj/feature/issue-155-Clean-up-manifest-files
+    
+    Feature/issue 155 clean up manifest files
+
+[33mcommit 83ad5f766fc41b32c4ddfa59b562df86ff0ed2ab[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Thu May 23 10:51:16 2019 -0400
+
+    #155 Improve comments on manifest file
+
+[33mcommit ad1d01ec2e2d702b5bad0e9d25b4622b2527a546[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon May 20 11:04:26 2019 -0400
+
+    #155 Fix Postman request
+
+[33mcommit b29d27964e2b3721efe88f672b26d49a8017a34c[m
+Author: Farhaad Naim <naim@galatea-associates.com>
+Date:   Mon May 20 11:04:11 2019 -0400
+
+    #155 Remove manifest-dev, update manifest-local
+
+[33mcommit a47197ad323c210ea9f319ca66eec8b984dc537d[m
+Merge: 5c3cebf 14971f6
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Tue Feb 26 13:14:13 2019 -0500
+
+    Merge branch 'develop' into feature/77
+
+[33mcommit fe2fd87ac4bab84d6ec755844de776d09bbc681b[m
+Author: William Silva <silva.w@husky.neu.edu>
+Date:   Sun Jan 27 12:30:45 2019 -0500
+
+    feature/issue-231 Remove MISSIONS constant in Repo class
+    
+    Replace the MISSIONS_CACHE constant in the Settlement Repo class
+    because Sonarqube would prefer a Constants class.
+
+[33mcommit d0fc6591508f88232e7cb9f93251d6f02f5c6e83[m
+Merge: 14971f6 4adb9ed
+Author: William Silva <silva.w@husky.neu.edu>
+Date:   Sun Jan 27 12:07:20 2019 -0500
+
+    Merge pull request #260 from wmvsilva/feature/issue-253_fix-cache-config
+    
+    Issue-253 Configure cache so EhCache is used instead of the default cache
+
+[33mcommit b033eb6590ddd8fcb7cd8bea623e26c1ea28d8a8[m
+Merge: 14971f6 a7dc0c6
+Author: William Silva <silva.w@husky.neu.edu>
+Date:   Sun Jan 27 11:50:56 2019 -0500
+
+    Merge pull request #258 from wmvsilva/feature/issue-231_jpa-crud-operations
+    
+    Feature/issue-231 JPA CRUD operation examples #231
+
+[33mcommit 14971f60f11a466150c35d90f512361373390f5b[m
+Merge: dd46935 58baea1
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Fri Jan 18 11:06:59 2019 -0500
+
+    Merge pull request #255 from GalateaRaj/feature/issue-225-show-logging-from-console
+    
+    update readme to show how to switch logging to the console
+
+[33mcommit 5c3cebfeb452aa440dd35007eb6b84e51ccc8c17[m
+Merge: dd46935 29aa5b4
+Author: Conor Ebbs <30809168+GalateaEbbs@users.noreply.github.com>
+Date:   Tue Jan 15 16:45:14 2019 -0500
+
+    Merge pull request #248 from GalateaEbbs/feature/issue-77
+    
+    Fixed multiple log file creation on startup
+
+[33mcommit a7dc0c6d6fee3dab08b4a660c7421e48fb00f582[m
+Author: William Silva <silva@galatea-associates.com>
+Date:   Fri Jan 4 15:57:45 2019 -0500
+
+    Issue-231 Add tests for new PUT and DELETE calls
+
+[33mcommit 58baea1fe7a6181dd885ccee43819647808770e7[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Jan 4 13:31:31 2019 -0500
+
+    update readme to show how to switch logging to the console
+
+[33mcommit 4adb9ed6372d5262f8f50984ae241a6423987f9a[m
+Author: William Silva <silva@galatea-associates.com>
+Date:   Fri Jan 4 11:45:54 2019 -0500
+
+    Issue-253 Configure cache so EhCache is used instead of the default cache
+
+[33mcommit 3c32d35dfab3cc93e2ad50552a779d7e4d802b1c[m
+Author: William Silva <silva@galatea-associates.com>
+Date:   Thu Jan 3 16:56:00 2019 -0500
+
+    Issue-231 Add JPA examples for Update and Delete
+
+[33mcommit 29aa5b48765d53a114bff9fe34281363d68bbddc[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Thu Jan 3 14:03:15 2019 -0500
+
+    Changed the log filename back to HHmmss and added a comment explaining why.
+
+[33mcommit 0e18be023bac552d1ff7858d7be8d77485a87207[m
+Author: Conor Ebbs <ebbs@galatea-associates.com>
+Date:   Wed Jan 2 11:33:21 2019 -0500
+
+    Fixed multiple log file creation on startup
+    
+    Added the createOnDemand property for each of the Log4j2 appenders so that empty files aren't created, also changed the log filename pattern to not include seconds, because multiple sets of all log files would be created for each second in the first few seconds on app startup. Also changed the argline in the pom to use the correct log4j2-test.yml file.
+
+[33mcommit dd4693560f50ce8c03bb4194a90a8cf79bd7e982[m
+Merge: d625feb bd3fd2b
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Wed Sep 26 15:27:41 2018 +0100
+
+    Merge pull request #240 from GalateaRaj/feature/issue-235-change-getmessage-to-tostring
+    
+    Set exception handler to use exception to string instead of exception message
+
+[33mcommit bd3fd2be0cd07930d5b58c33067a4037878f48ae[m
+Merge: c146dc5 d625feb
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Wed Sep 26 15:15:40 2018 +0100
+
+    Merge branch 'develop' into feature/issue-235-change-getmessage-to-tostring
+
+[33mcommit d625febf2b77b5e52ec9d6a2865d0bb9cbfcf0ea[m
+Merge: 886f621 9ad661b
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Tue Sep 25 13:40:35 2018 -0400
+
+    Merge pull request #242 from GalateaRaj/feature/issue-210-define-spring-boot-port
+    
+    Feature/issue 210 define spring boot port
+
+[33mcommit 9ad661b7caed0f0d657d8ca5a3a684e2e54242a0[m
+Merge: cf4257e 886f621
+Author: ktweel <kathryn.tweel@gmail.com>
+Date:   Tue Sep 25 13:24:14 2018 -0400
+
+    Merge branch 'develop' into feature/issue-210-define-spring-boot-port
+
+[33mcommit 886f621f2b857127d20209ed0cb6d9dab7384e3e[m
+Merge: 16cf255 d3fde4f
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Sep 24 15:10:57 2018 -0400
+
+    Merge pull request #241 from GalateaRaj/feature/issue-220-enable-swagger
+    
+    Feature/issue 220 enable swagger
+
+[33mcommit d3fde4f6cefbdb77e52b103111eccd1700491a17[m
+Merge: f812d4a c2ce3ad
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 14:49:36 2018 -0400
+
+    Merge branch 'feature/issue-220-enable-swagger' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-220-enable-swagger
+
+[33mcommit f812d4a3220f6a6dcf7527dd729b3f1188c78a91[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 14:25:49 2018 -0400
+
+    #220 removed log of which jar Precondition.class fetched from
+
+[33mcommit c2ce3ad46303d324983d9219d6f335f69b11db08[m
+Merge: 174650f 16cf255
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Sep 24 13:53:15 2018 -0400
+
+    Merge branch 'develop' into feature/issue-220-enable-swagger
+
+[33mcommit 174650fb0a805ddb6a30a195b00406b455238490[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 13:17:02 2018 -0400
+
+    #220 Removing unused google-collections dependency
+
+[33mcommit 259ee01ca005bc08c431db363d65b287d878a6d9[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 12:20:26 2018 -0400
+
+    #220 Log what jar Preconditions is loaded from
+
+[33mcommit ba8f021ec36fffa4df9d73d0e593f70b89a92275[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 09:15:11 2018 -0400
+
+    #220 adding debug: true to dev profile to get spring debug in CF
+
+[33mcommit db52bb798742e74b2e1cb2d762a608e0a3fae994[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 08:52:48 2018 -0400
+
+    #220 Attempting to start with spring debug enabled
+
+[33mcommit b7a20e7afec90524163e0fa6cbe93c241a207f86[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Sep 24 08:41:57 2018 -0400
+
+    #220 Adding '--debug' to java_opts to print classpath
+
+[33mcommit 16cf255a7777a167ef3d04e6e64109900aabbd4d[m
+Merge: fdbd845 bc8e0ca
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Mon Sep 24 09:08:07 2018 +0100
+
+    Merge pull request #239 from GalateaRaj/feature/issue-226-remove-capsule
+    
+    Removed mention of capsule in comments
+
+[33mcommit bc8e0ca3060607f39aa444570860f7741227da99[m
+Merge: 2627d33 fdbd845
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Mon Sep 24 08:53:58 2018 +0100
+
+    Merge branch 'develop' into feature/issue-226-remove-capsule
+
+[33mcommit fdbd845b84225216fab4480c9219e2aadcb229e7[m
+Merge: 35d4dea ee29168
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Mon Sep 24 08:53:14 2018 +0100
+
+    Merge pull request #238 from GalateaRaj/feature/issue-228-remove-irrelevant-lombok-annotations
+    
+    Feature/issue 228 remove irrelevant lombok annotations
+
+[33mcommit cf4257e34e6b94aefdd35a15db48984aebb52e6d[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 16:19:22 2018 -0400
+
+    update argument to cloud foundry push in jenkinsfile
+
+[33mcommit c9678d3616d99d2cd5430e449039d3f177a5a381[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 16:14:01 2018 -0400
+
+    update argument to cloud foundry push in jenkinsfile
+
+[33mcommit 0648caeea20165b0a6156e820a4fd332d867c490[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 16:02:28 2018 -0400
+
+    add argument to cloud foundry push in jenkinsfile
+
+[33mcommit c8fb9441115334eb2d055e35ffca04d2eac61fd5[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 15:46:22 2018 -0400
+
+    add argument to pom.xml
+
+[33mcommit 7adfb866d220b6394d6d52a5cb4d0de8efa0d5e7[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 14:43:43 2018 -0400
+
+    javadoc to MissingOptionException
+
+[33mcommit 57b9334bc7f48b7f4372c80c5d25869eb2466087[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Sep 21 14:38:31 2018 -0400
+
+    #220 reverting changes to Jenkinsfile
+
+[33mcommit bbf77a46f508d16fa721e09a58118206dfb085bd[m
+Author: Kathryn Tweel <tweel@galatea-associates.com>
+Date:   Fri Sep 21 14:31:17 2018 -0400
+
+    show how to define port for spring boot application
+
+[33mcommit c6ac8bcbebe9df1275265e1e797707e06eed85c6[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Sep 21 14:30:48 2018 -0400
+
+    #220 additional comment
+
+[33mcommit 184cae797e1e31ebbea60b899cee16fb90ed5202[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Sep 21 14:30:21 2018 -0400
+
+    #220 Enable swagger endpoints
+
+[33mcommit 36dae28dc8a6921e60a7c33028ca398750067e71[m
+Merge: 54e1dd0 35d4dea
+Author: James Barber <jbarber@Galatea.com>
+Date:   Fri Sep 21 13:38:36 2018 -0400
+
+    Merge branch 'develop' of https://github.com/GalateaRaj/fuse-starter-java into develop
+
+[33mcommit c146dc5b9d08f91982630e932c5fc111b4fb317d[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 11:42:20 2018 +0100
+
+    Set exception handler to use exception to string instead of exception message.
+
+[33mcommit 2627d33b22c57d4ba4b06303617ec6df3ca6e072[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 12 17:29:19 2018 +0100
+
+    Removed mention of capsule in comments
+
+[33mcommit ee29168814c82008ed6256330180c70233093b99[m
+Merge: 7b5d853 deaf034
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 10:58:35 2018 +0100
+
+    Merge branch 'feature/issue-228-remove-irrelevant-lombok-annotations' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-228-remove-irrelevant-lombok-annotations
+
+[33mcommit 7b5d853081a1b337c03bb236cb8d8ff9a9de96b4[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 12 16:52:36 2018 +0100
+
+    Removed ToString and EqualsAndHashCode annocations from services and controllers
+
+[33mcommit 35d4dea4e8469732d1e30a4423ef29dfc4b0a121[m
+Merge: 267fce1 85caf66
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Wed Sep 19 10:49:00 2018 +0100
+
+    Merge pull request #234 from GalateaRaj/feature/issue-229-annotate-functional-interface
+    
+    Annotate functional interfaces
+
+[33mcommit 85caf66b8672a74c0c9f400a3d28aa41325e9308[m
+Merge: a36a121 09836c4
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 10:13:49 2018 +0100
+
+    Merge branch 'feature/issue-229-annotate-functional-interface' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-229-annotate-functional-interface
+
+[33mcommit a36a121edf0c5f682629d8f470935a47d324585d[m
+Author: Alex Power <power@galatea-associates.com>
+Date:   Tue Aug 14 16:51:50 2018 -0400
+
+    Annotate the functional IAgreementTransformer interface with @FunctionalInterface
+
+[33mcommit 267fce14d6c6728ca39ef27768138f16ec4a6941[m
+Merge: efe5548 7397fb3
+Author: Gala-Sortino <43134061+Gala-Sortino@users.noreply.github.com>
+Date:   Wed Sep 19 10:00:21 2018 +0100
+
+    Merge pull request #237 from GalateaRaj/feature/issue-236-fix-jenkins-build-faliure
+    
+    Changed plugintimout, instances and memory parameters to type string
+
+[33mcommit 7397fb3448f63484fee292f718ea15b834927c5d[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 09:24:26 2018 +0100
+
+    Set deploy memory to string as also required
+
+[33mcommit 7542ce5f87a3aac4d622abf1580c8703e2ec3057[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 09:19:31 2018 +0100
+
+    Set instances to string as also required.
+
+[33mcommit 78c941c8e73a237cd2a061d6ab88388b26d4be72[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 19 09:08:55 2018 +0100
+
+    Changed plugintimout parameter to type string
+
+[33mcommit deaf03479e16dec9d7c2e10ca6df6404f90514ca[m
+Author: Danny Sortino <dsortino@Galatea.com>
+Date:   Wed Sep 12 16:52:36 2018 +0100
+
+    Removed ToString and EqualsAndHashCode annocations from services and controllers
+
+[33mcommit 09836c4889dfe550721179de88a1a0e51bdae6b8[m
+Author: Alex Power <power@galatea-associates.com>
+Date:   Tue Aug 14 16:51:50 2018 -0400
+
+    Annotate the functional IAgreementTransformer interface with @FunctionalInterface
+
+[33mcommit 206901743a6f8cfd74274d620419b153922c7411[m
+Merge: f95de3b efe5548
+Author: Alex Power <power@galatea-associates.com>
+Date:   Tue Aug 14 09:41:55 2018 -0400
+
+    Merge branch 'develop' of https://github.com/GalateaRaj/fuse-starter-java into develop
+
+[33mcommit efe55486a11b67ab3321d0796336444f6a4aff08[m
+Merge: 91c8893 0ebca67
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue May 29 13:02:46 2018 -0400
+
+    Merge pull request #218 from GalateaRaj/feature/issue-216-splitting-protobuf-from-http
+    
+    Feature/issue 216 splitting protobuf from http
+
+[33mcommit 0ebca67eaef0329dd0e90753245d7ee15b12bd9b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed May 23 11:42:40 2018 -0400
+
+    Issue #216 - SonarQube did not like me taking my time to return. It wants and immediate return.
+
+[33mcommit eb1c6937408ef2f966abea069b0f63c5dbedcb68[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed May 23 11:35:45 2018 -0400
+
+    #216 - Feedback from fuse steerco review:
+    - Created BaseRestController to contain functionality to be shared across all REST endpoints
+    - Refactored BaseSettlementRestController to increase code reuse slightly
+    - Mapped both settlement rest controllers to the same REST endpoints
+    - Added some more documentation to the protobuf translator used for JMS
+
+[33mcommit e1426cbdc17e73bd3704e8364a6f9a60fb2e3564[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Apr 26 11:02:16 2018 -0400
+
+    #216 - Fixing the integration tests.
+
+[33mcommit a4600e92f91c8bfaeeb32a8c1187eac9d4f849f4[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Apr 26 09:45:17 2018 -0400
+
+    #216 - Extra comments and tidying up.
+
+[33mcommit aa99f8701664e92cca63f44490735f80557ac5ca[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Apr 26 08:46:38 2018 -0400
+
+    #216 - Fixed JMS tests.
+
+[33mcommit c31f26ea4ac507001a37a8cedd1ef8866f85832a[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Apr 24 16:04:43 2018 -0400
+
+    #216 - Clean-up what turns out to be unnecessary config.
+
+[33mcommit f1a0eb8bf7da585f8af10ff8ca7c47941d03485a[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Apr 24 14:39:03 2018 -0400
+
+    #216 - JmsListener for JSON as well as protobuf.
+
+[33mcommit ffb5a5150c614444f474d633abfb752afba2f1b7[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Apr 24 08:45:05 2018 -0400
+
+    #216 - Testing retrieval of settlement missions and added some comments.
+
+[33mcommit 5c575ad18d43879ae747cc690ef0e09898548cff[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Apr 24 07:50:32 2018 -0400
+
+    #216 - Sonar, oh Sonar, don't fail my build my friend Sonar...
+
+[33mcommit aef6ce6a2521be4054609be780a9580267837844[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Apr 23 16:02:11 2018 -0400
+
+    #216 - Added proto rest controller. Not finished with unit tests.
+
+[33mcommit bc061bf0c22a7ade2609fa50b6e355ab64b126b0[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Apr 23 16:01:53 2018 -0400
+
+    #216 - Added proto rest controller. Not finished with unit tests.
+
+[33mcommit 148c6646cb2d379f9d4c047b51082f007c03144b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Apr 23 13:43:13 2018 -0400
+
+    #216 - Splitting Protobuf from JSON and XML. Right now the SettlementRestController accepts XML and JSON and can handle content negotiation for those two types.
+
+[33mcommit 91c8893418b87925a74e3cd6bb169192866f69c9[m
+Merge: b6c425a a33d719
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed Apr 18 11:48:32 2018 -0400
+
+    Merge pull request #212 from GalateaRaj/feature/issue-205-rest-content-negotiation
+    
+    Issue #205 - Rest Content Negotiation + Protobuf Support
+
+[33mcommit a33d719137e29010ac444276a284d07d20a3410d[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed Apr 18 10:16:59 2018 -0400
+
+    #205 - no longer need object mapper to format a string to valid JSON.
+
+[33mcommit f3959e9ee0a503c0088177e957822869f559bfe0[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed Apr 18 08:07:11 2018 -0400
+
+    #205 - merge from develop
+
+[33mcommit 4a7c138150a51322692f3afc4de9e789a7a410c5[m
+Merge: d594115 b6c425a
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed Apr 18 07:51:56 2018 -0400
+
+    Merge branch 'develop' into feature/issue-205-rest-content-negotiation
+    
+    # Conflicts:
+    #       src/test/java/org/galatea/starter/entrypoint/SettlementRestControllerIntegrationTest.java
+
+[33mcommit b6c425ad7bd5e90ae6098e4d062b58124a3dd994[m
+Merge: 1432ad8 5e057a6
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Apr 16 15:15:14 2018 -0400
+
+    Merge pull request #214 from GalateaRaj/feature/issue-186-Create-HAL-REST-endpoint
+    
+    Feature/issue 186 create hal rest endpoint
+
+[33mcommit 5e057a6e5fad03829bbb648fb3009daa7e12c03b[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Apr 16 15:03:01 2018 -0400
+
+    Added a test for the coinFlipRand function in HalService.java
+
+[33mcommit 62ade23e7ec542c9fca7f79b07d8710c95efeb0c[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Apr 16 14:40:54 2018 -0400
+
+    Added a test for JsonProcessingException in RestExceptionHanlderTest.java
+
+[33mcommit 1432ad88a742f6328e6de8c54f334b9ff5aa0757[m
+Merge: dbe9e18 27e319a
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Apr 16 14:30:21 2018 -0400
+
+    Merge pull request #209 from GalateaRaj/feature/issue-186-Create-HAL-REST-endpoint
+    
+    Feature/issue 186 create hal rest endpoint
+
+[33mcommit 27e319a7a95c13a9d802282dab832494273a3e8d[m
+Merge: 25a3725 dbe9e18
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Apr 16 14:20:13 2018 -0400
+
+    Merge branch 'develop' into feature/issue-186-Create-HAL-REST-endpoint
+
+[33mcommit 25a3725c4b458ee5f1ed4ab9a9ed87b46f8133a9[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Apr 16 09:35:55 2018 -0400
+
+    Updated the name of the fuse host in the application file. Modified the settlement rest controller integration test to pull from the resource file.
+
+[33mcommit d5941154b57f7a6d47f98b58d204924180385557[m
+Merge: 174461c dbe9e18
+Author: gala-lightfoot <36625850+gala-lightfoot@users.noreply.github.com>
+Date:   Fri Apr 13 10:59:10 2018 +0100
+
+    Merge branch 'develop' into feature/issue-205-rest-content-negotiation
+
+[33mcommit 174461cf10e077cc6e3bb2ee5f8a15899aa24deb[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Apr 13 10:27:45 2018 +0100
+
+    Integration test
+
+[33mcommit dbe9e184f3450a4b35fc14bf37896552e6e4a4d7[m
+Merge: ce17a1a cc98d56
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Apr 12 11:52:41 2018 -0400
+
+    Merge pull request #211 from GalateaRaj/feature/issue-10-use-jetty-instead-of-tomcat
+    
+    Issue #10 - Use Jetty instead of Tomcat
+
+[33mcommit 737761fe90f6d064e2e00cba378821907755dde2[m
+Merge: 1f0c8db ce17a1a
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Apr 12 16:45:36 2018 +0100
+
+    Merge branch 'develop' of github.com:GalateaRaj/fuse-starter-java into feature/issue-205-rest-content-negotiation
+
+[33mcommit 1f0c8db094d1aed19471279978cc8d0ff7ef83a3[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Apr 12 16:45:28 2018 +0100
+
+    Merge develop
+
+[33mcommit dd53609bb4fc5ea5d5e5d1725940467f1eb5bc97[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Apr 12 16:39:26 2018 +0100
+
+    Cleanup
+
+[33mcommit a4d4a2781822002eb7909a2e69f85bfa0d96e713[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Thu Apr 12 09:49:54 2018 -0400
+
+    Removed functions that SonarQube was complaining about. They aren't needed yet and aren't fully supported.
+
+[33mcommit 6a180df831b3dc080fa16d5e6ca27b3cb0d33c35[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Wed Apr 11 08:59:55 2018 -0400
+
+    Fixed sonar qube issues
+
+[33mcommit ccac3cbe946f61c91c993530f5952aaf606b616f[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Wed Apr 11 08:49:46 2018 -0400
+
+    Updated service class to return empty strings for functions that are not fully implemented. Modified integration test to read in the location of the cf app from a properties file.
+
+[33mcommit 123db99df0ac34e8ec190375ca10dbd3a6fa80ff[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 17:40:28 2018 +0100
+
+    Add static import for messages
+
+[33mcommit 492bc92729bc53ff6ebbf2e7a86de61e720f7525[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 17:04:37 2018 +0100
+
+    Fix postman collections
+
+[33mcommit ffebd4f68b6186a0f095ba9e1d2d1917e2894938[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 16:51:04 2018 +0100
+
+    Return protobuf on POST
+
+[33mcommit 67ec771c0fe30739e5ff343f622b99ff47663ef9[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 16:33:41 2018 +0100
+
+    Update POSTMAN JSON
+
+[33mcommit f4aa246127fce26ee0bf6952ff2b8655ae61603a[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 16:08:24 2018 +0100
+
+    Move translators as lambdas into config.  Fix test agreement JSON.
+
+[33mcommit cc98d567a7499f4669a7548bc6331786df507675[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Apr 10 13:21:07 2018 +0100
+
+    Exclude Tomcat dependency.  Add Jetty
+
+[33mcommit f95de3b5d37667e51036e5a6c19cbc6b691975b1[m
+Merge: bce5549 ce17a1a
+Author: Alex Power <power@galatea-associates.com>
+Date:   Mon Apr 9 13:29:45 2018 -0400
+
+    Merge branch 'develop' of https://github.com/GalateaRaj/fuse-starter-java into develop
+
+[33mcommit b58d61b9acd94cfe8d517f8cc05daaeeca2bd63c[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 18:18:33 2018 +0100
+
+    Exclude Messages.java from Sonar
+
+[33mcommit 13efec357a1aabd1627bd10b2a0028b2dba8a46f[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 18:08:18 2018 +0100
+
+    Exclude Messages POJO from Sonar
+
+[33mcommit 12efeb1ae48a461a862915db8804d6bffed9e27f[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 17:59:32 2018 +0100
+
+    Exclude Messages POJO from Sonar
+
+[33mcommit 2cfd12208980f1518e5baa1d1628dc07107c9fcb[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 17:44:26 2018 +0100
+
+    Comments
+
+[33mcommit 2aa8c948a8bf87f8c6614b98e6c2a9efbb35b2ac[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 16:57:13 2018 +0100
+
+    SettlementResponse naming
+
+[33mcommit df7aaae6e6d6ba791c783ee19ea5bbb96f355990[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 16:52:27 2018 +0100
+
+    Allow POSTing of multiple TradeAgreement's to the endpoint
+
+[33mcommit 68b4c7a9ae06bc80b6cb7738b42bdecb2a0636f9[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Apr 9 14:59:53 2018 +0100
+
+    Cleanup
+
+[33mcommit ce17a1a1110f0e6c3264b270d454ebce45c7e501[m
+Merge: 716dfae 232b31f
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Apr 6 13:30:26 2018 -0400
+
+    Merge pull request #198 from GalateaRaj/feature/issue-182-rationalize-lombok-annotations
+    
+    Feature/issue 182 rationalize lombok annotations
+
+[33mcommit 232b31f38363b31bc898187185f286d7b4c09698[m
+Merge: d06c7a2 716dfae
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Apr 6 13:23:13 2018 -0400
+
+    Merge branch 'develop' into feature/issue-182-rationalize-lombok-annotations
+
+[33mcommit 61937247b77619c0a9e88479aab5af9607394738[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Apr 3 16:59:07 2018 -0400
+
+    Created integration test for Hal Endpoint and Service and tested with CF
+
+[33mcommit 5d94bdf680c8d87fcac667d14e4770ce75601c3d[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 17:45:35 2018 +0100
+
+    Tests
+
+[33mcommit 818f6411416a8040ee6f0855579b7bef6898f9bc[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 17:15:15 2018 +0100
+
+    Return SettlementResponse object
+
+[33mcommit 29bb0ed4b4539968cedb84db4c269084022bcbfd[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 15:36:09 2018 +0100
+
+    Fix MessageUtil import
+
+[33mcommit 30bb5bfffe5c5e55a5f1abc503a6a3911ec6fbc3[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 11:28:15 2018 +0100
+
+    Furter test refactoring + tidy
+
+[33mcommit 65a61878877962168208556629a180695678b8b1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 11:17:54 2018 +0100
+
+    Test refactoring
+
+[33mcommit 3e29f74df3f1e62b012fe58a352cecc810ccaac5[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 10:46:12 2018 +0100
+
+    Define concrete translators
+
+[33mcommit 94d567b0185a2fc193485f2b4aa65a32499286b0[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 29 10:29:21 2018 +0100
+
+    Extract MessageTranslationConfig
+
+[33mcommit 02c84ed107645b8f010286c13bf6fb0ceab99ad9[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 28 18:00:16 2018 +0100
+
+    XML tests
+
+[33mcommit ab975177ac614ec685880c3bae71d9f8fa63cfc8[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 28 16:31:55 2018 +0100
+
+    Consume XML TradeAgreementMessage's
+
+[33mcommit 3cc8f0c54cabad5409fc817baf004e86a76a6351[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 28 16:25:31 2018 +0100
+
+    tidy 2
+
+[33mcommit 4ff6801a59e8de0df8654148662036f76fa28fa7[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 28 16:21:22 2018 +0100
+
+    Tidy
+
+[33mcommit 937c471376bc389d4bc344f766077b9c0e866be3[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 28 16:13:01 2018 +0100
+
+    Communicate using Protobuf messages via RestController.  Perform validation in the SettlementService.
+
+[33mcommit 7858439bab8812ec69711402f721e6e189082681[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 15:43:43 2018 -0400
+
+    Clean up
+
+[33mcommit 388fb2577213bd971a74a7b8b79b1205b470b6c8[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 15:30:34 2018 -0400
+
+    Added some missing tests to HalServiceTest.java
+
+[33mcommit 4f4a4b38ec0fafb56b2928e64b24aa0f1433b7b8[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 15:21:04 2018 -0400
+
+    Fixed SonarQube issue
+
+[33mcommit 1d0444612d46f5a6f8ba2621cd82d101aba544eb[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 15:18:21 2018 -0400
+
+    Moved handling for the JsonProcessingException into the @ControllerAdvice class. Modified the HalRestControllerTest class to accept the json rather than the string
+
+[33mcommit 97e425a4bab1789be646f1788a94ebabb441a1c9[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 14:42:54 2018 -0400
+
+    Converted string from rest controller into json
+
+[33mcommit 0f6f144d0e68ad2ccaf4c8edb5aecdaa76bc22ba[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 14:08:51 2018 -0400
+
+    Removed todo statement. SonarQube doesn't like it
+
+[33mcommit 2f5b8dba3f686043340d08addea7f275357e3dd7[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 13:57:56 2018 -0400
+
+    Changed architecture so all the processing is in the service instead of the rest controller. Added unit tests for both the rest controller and the service. Forgot to stage files before last commit.
+
+[33mcommit dc6c268c81c524013bbe99e049f7d41ebae8923a[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 13:56:51 2018 -0400
+
+    Changed architecture so all the processing is in the service instead of the rest controller. Added unit tests for both the rest controller and the service
+
+[33mcommit 2d5a7bc76237a1922dcef9f9e078eb072225f0f0[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 27 16:00:46 2018 +0100
+
+    Only use Protobuf converter
+
+[33mcommit c11dc49713a947687318eadf37cbe172c2ce98d5[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Wed Feb 21 07:42:18 2018 -0500
+
+    Changed the SettlementJmsListener to use protobuf messages. Main artifacts are:
+    - Messages.proto - message definition for protobuf
+    - Added protobuf dependency to pom.xml
+    - TradeAgreementTranslator - translates to/from a TradeAgreementMessage to a TradeAgreement.
+    
+    Added a check for null.
+    
+    - Changed the translators into a functional interface so we don't have too many unnecessary implementations.
+    - Added a runtime exception for translation errors.
+    
+    Removed Jackson message converter from JMS configuration and other unnecessary code, reverting to use the default message converter.
+    
+    Removed Jackson message converter from JMS configuration and other unnecessary code, reverting to use the default message converter.
+    
+    Fully qualified @Generated to make it easier to filter in SonarQube
+    
+    - Added tests for the agreement translator implementation.
+    - Added an ObjectSupplier interface for object creator helpers.
+    - Added some unit test config to create some object creator helpers
+    
+    Urgh, missed cleaning up imports in this file.
+
+[33mcommit 53797dbedddb362547c2680a30e530148c1a1af1[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Tue Mar 27 09:58:52 2018 -0400
+
+    Committing before rework
+
+[33mcommit df6c7802034f5dc832c5c8b7f8bb4ef4d99a2a9d[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Mar 26 10:26:28 2018 -0400
+
+    Changes to fix SonarQube errors
+
+[33mcommit 825a4637a9e13a7ec48862745acf160ac13ff1aa[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Mon Mar 26 09:16:36 2018 -0400
+
+    Added support for a few more endpoints
+
+[33mcommit 716dfae8cd7832da593e480597dd3d3fc39bb6da[m
+Merge: d005293 18a5eea
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Mar 23 13:11:26 2018 -0400
+
+    Merge pull request #208 from GalateaRaj/feature/issue-207-RestExceptionHandler-tests
+    
+    Issue #207 - RestExceptionHandler tests
+
+[33mcommit 18a5eea0ad3149ecda9e07c2fd22dedf79b0dc8d[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 23 16:09:12 2018 +0000
+
+    Tidy
+
+[33mcommit cea92a3e3b7d342d003466ba3f12f809e88ba1f1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 23 16:05:51 2018 +0000
+
+    StringEnumValidator test
+
+[33mcommit a9381094cd3f52670d661fe3ab90eef497c68be5[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 23 15:29:48 2018 +0000
+
+    Remove unused imports
+
+[33mcommit cc16a9ee0c878f6956e120eec7b473e3448d3997[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 23 14:59:23 2018 +0000
+
+    ConstraintViolationFormatter test
+
+[33mcommit 8433db34927f8b3700a751286da9fa57d4608570[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 23 14:32:59 2018 +0000
+
+    Unit tests
+
+[33mcommit fc57abfd42fe08e27c0f5d82414741c6007d0d7d[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Thu Mar 22 16:05:26 2018 -0400
+
+    Basic support for HAL REST Controller
+
+[33mcommit bce5549dcffc5e847252160873a7d917eb9860f8[m
+Merge: d005293 d06c7a2
+Author: Alex Power <power@galatea-associates.com>
+Date:   Tue Mar 20 09:25:16 2018 -0400
+
+    Merge branch 'feature/issue-182-rationalize-lombok-annotations' into develop
+    Merge to fix filename
+
+[33mcommit d06c7a209a916814c9fe56b30f6e10f4a15b304d[m
+Merge: 4e3b406 d005293
+Author: Alex Power <power@galatea-associates.com>
+Date:   Tue Mar 20 09:23:57 2018 -0400
+
+    Merge remote-tracking branch 'origin/develop' into feature/issue-182-rationalize-lombok-annotations
+    Merge to fix filename
+
+[33mcommit d005293b337b2a9ca7b77bc8c4d35dbf8257cc78[m
+Merge: 09f4a75 69cc487
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 19 13:36:56 2018 -0400
+
+    Merge pull request #199 from GalateaRaj/feature/issue-197-issue-template-add-documentation
+    
+    #197 - documentation section on issue template
+
+[33mcommit 69cc487d36a146ae14ac0f2d1e25407946d35e72[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 19 13:20:10 2018 -0400
+
+    #197 - moved documentation section up to make clear it is a requirement before making the change.
+
+[33mcommit c53563adad704e316b29dca4d451960b24b224eb[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 19 13:14:37 2018 -0400
+
+    #197 - moved documentation section up to make clear it is a requirement before making the change.
+
+[33mcommit f03cd2dce7da1c09167f2ab65c69ba74af2fe79d[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 19 12:15:02 2018 -0400
+
+    #197 - added documentation section.
+
+[33mcommit 4e3b40687c113148c0705306d99ef1ac6c7bcd5e[m
+Author: Alex Power <power@galatea-associates.com>
+Date:   Mon Mar 19 10:50:35 2018 -0400
+
+    #182 - Lombok annotations streamlined and rationalized.
+
+[33mcommit 09f4a7518bb6b28d91ae2b26c21f1ffd3d12f7d3[m
+Merge: a4a013b e60e970
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 19 09:33:06 2018 -0400
+
+    Merge pull request #196 from GalateaRaj/feature/issue-193-app-config-not-working-with-community-edition-of-intellij
+    
+    Feature/issue 193 app config not working with community edition of intellij
+
+[33mcommit e60e970195c2ef4187370e002fad17ba7968bdb7[m
+Merge: 78a70ee a4a013b
+Author: mbarber-gala <36996426+mbarber-gala@users.noreply.github.com>
+Date:   Mon Mar 19 09:17:09 2018 -0400
+
+    Merge branch 'develop' into feature/issue-193-app-config-not-working-with-community-edition-of-intellij
+
+[33mcommit a4a013b624032083bd3db5ce25909fa088d43a66[m
+Merge: f81017a eee4128
+Author: hstandring <hstandring88@gmail.com>
+Date:   Mon Mar 19 09:05:30 2018 -0400
+
+    Merge pull request #174 from GalateaRaj/feature/issue-91-log-exceptions-in-one-line-log4j2
+    
+    Issue #91 - Log Exceptions in one line Log4j2
+
+[33mcommit 78a70eea5972a665cd952db6d3f963bf56519949[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Fri Mar 16 13:29:10 2018 -0400
+
+    Updated Application Configuration paths to match the original file paths
+
+[33mcommit aeca088375e6a74bb8315f445df6c41757c71de4[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Fri Mar 16 12:00:08 2018 -0400
+
+    Updated README.md to include more complete directions for getting Postman to interact with Fuse.
+
+[33mcommit 96ab3bb5851332d674cf25d0b0531b95d65e493d[m
+Author: Mike Barber <mbarber@galatea-associates.com>
+Date:   Fri Mar 16 11:51:25 2018 -0400
+
+    New Application Configuration file that works with the Community version of Intellij.
+
+[33mcommit eee4128513dc6ab775155e1a902f29a34f54c449[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 16 14:44:23 2018 +0000
+
+    Fix format
+
+[33mcommit 56ecc0854ce00803d771abc0f30e3ce29517a098[m
+Merge: 97c56be 2a14447
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 16 13:57:34 2018 +0000
+
+    Merge branch 'feature/issue-91-log-exceptions-in-one-line-log4j2' of github.com:GalateaRaj/fuse-starter-java into feature/issue-91-log-exceptions-in-one-line-log4j2
+
+[33mcommit 97c56be9011b780451bb41b96149ae8b485a1e2d[m
+Merge: 8f1d961 f81017a
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 16 13:57:00 2018 +0000
+
+    Merge branch 'develop' of github.com:GalateaRaj/fuse-starter-java into feature/issue-91-log-exceptions-in-one-line-log4j2
+
+[33mcommit 8f1d961815403d8d5985f028422fa563efc1efcc[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 16 13:56:49 2018 +0000
+
+    Test log config: single line exception logging
+
+[33mcommit 2a14447cd94222bf18633127ef1682d78c2a4899[m
+Merge: 03694dd f81017a
+Author: gala-lightfoot <36625850+gala-lightfoot@users.noreply.github.com>
+Date:   Fri Mar 16 11:13:21 2018 +0000
+
+    Merge branch 'develop' into feature/issue-91-log-exceptions-in-one-line-log4j2
+
+[33mcommit 5b010a7582bde2bc8b32475ce37bd282af353f87[m
+Author: Alex Power <power@galatea-associates.com>
+Date:   Thu Mar 15 14:33:58 2018 -0400
+
+    #182 Rationalize Lombok Annotations
+
+[33mcommit f81017aaf6f196a998d2c08df2d91c09da00e464[m
+Merge: 13e7be5 5aa485d
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Mar 15 13:55:28 2018 -0400
+
+    Merge pull request #181 from GalateaRaj/feature/issue-106-jsr-380-bean-validation
+    
+    Issue #106 - JSR 380 Bean Validation 2.0
+
+[33mcommit 54e1dd0c55a78ad4f2ce6679929432fdbe161a75[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Mar 15 09:47:49 2018 -0400
+
+    Don't shutdown app after build, so I can view the logs.
+
+[33mcommit 5aa485ddb233c836a5cfb1a914991f8c478612cf[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 14 15:25:33 2018 +0000
+
+    Provide constraint violations in JSON response.  SettlementMission happy path test
+
+[33mcommit 03694ddefae74c0692fe7af1938e877e3a77c4e8[m
+Merge: 5462c4f 13e7be5
+Author: gala-lightfoot <36625850+gala-lightfoot@users.noreply.github.com>
+Date:   Mon Mar 12 13:15:57 2018 +0000
+
+    Merge branch 'develop' into feature/issue-91-log-exceptions-in-one-line-log4j2
+
+[33mcommit 82cd39c503f34171b3d6312688e0c1ce5f68aff1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Mar 12 09:32:51 2018 +0000
+
+    Comments
+
+[33mcommit efb040cdb97ca91767e249229e2b2476413b7ea1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 16:35:47 2018 +0000
+
+    Naming
+
+[33mcommit a9f806facf402c52d24cf02e9d8467df79affb6b[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 16:23:12 2018 +0000
+
+    Packages
+
+[33mcommit c1dd26c52a7994868dc011900ab7b21d8bb4934e[m
+Merge: 36cd59c 13e7be5
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 16:08:53 2018 +0000
+
+    Merge branch 'develop' of github.com:GalateaRaj/fuse-starter-java into feature/issue-106-jsr-380-bean-validation
+
+[33mcommit 36cd59c22b79fafaef5402d4a97b677b7fd861a6[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 16:05:55 2018 +0000
+
+    Tests
+
+[33mcommit caea68878298612f690fbe81875c6e2851974f98[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 15:59:29 2018 +0000
+
+    Comments.  final params.
+
+[33mcommit dbfdc9c01cb33cd60948b9a9738179b8066a9c70[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 15:50:09 2018 +0000
+
+    Refactor StringEnumerationValidator
+
+[33mcommit 613c85ca5438e511a4c070ccf31ff6b175af02a1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 15:47:35 2018 +0000
+
+    Pull out Mappable.
+
+[33mcommit ba39f2eee0a358420d3f8b38322a73f7b9e26805[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 15:36:02 2018 +0000
+
+    Rename MappableEnum -> Mappable
+
+[33mcommit d1d34031e4fb3f7f1c90e2c5a48adade31181b03[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 15:29:44 2018 +0000
+
+    Validate direction + side
+
+[33mcommit 13e7be5589183ebd2ddc719b2fedd411ec614e51[m
+Merge: 43713aa 32628b8
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Mar 9 09:44:46 2018 -0500
+
+    Merge pull request #178 from GalateaRaj/feature/issue-175-update-readme
+    
+    Issue #175 updating Readme.md
+
+[33mcommit 32628b8b37f75859719d5b4adcf07a8711502df5[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Mar 9 09:32:25 2018 -0500
+
+    Issue #175 updating Readme.md
+    
+    with updated Sonar instructions
+
+[33mcommit 43713aabcd7d5dd53ebb434f271c20572fd0ee12[m
+Merge: 2a82a71 0eaf265
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Mar 9 09:22:24 2018 -0500
+
+    Merge pull request #177 from GalateaRaj/feature/issue-175-configure-code-standards
+    
+    Issue #175 specify sonar organization=galatea
+
+[33mcommit 0eaf26504d2aef0b27e64d67583d110ea46e9c22[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Mar 9 08:54:23 2018 -0500
+
+    Issue #175 specify sonar organization=galatea
+
+[33mcommit 0f3081b6deae63c6b9646aa4c0bf68d8c4122e8b[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 10:15:54 2018 +0000
+
+    Return client-friendly message on constraint violation
+
+[33mcommit e0c89349d181905ade91b4d35ae6fdfd927d00e7[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Fri Mar 9 10:07:15 2018 +0000
+
+    Validate SettlementRestController input TradeAgreements
+
+[33mcommit 5462c4f82e1d322f61d68e6c1b7526bee8b724f8[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 8 16:24:31 2018 +0000
+
+    All logs now use one-line exception logging
+
+[33mcommit 4943d510b193e0bcbd13f52d00ff96966e7d491e[m
+Merge: 673c6ee 2a82a71
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Thu Mar 8 14:40:32 2018 +0000
+
+    Merge branch 'develop' of github.com:GalateaRaj/fuse-starter-java into feature/issue-106-jsr-380-bean-validation
+
+[33mcommit b5fb499afd34cff034a967d30800f867095b32f1[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Mar 7 09:02:46 2018 +0000
+
+    Move one line exception logging to the ErrorRollingFileAppender
+
+[33mcommit 9855ab9bf5e10ec022ddbc9b362f948b6a70a99e[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 6 18:09:22 2018 +0000
+
+    Comments
+
+[33mcommit 78494075e69ad994e6c41131e60aea0275a4da8c[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 6 18:06:42 2018 +0000
+
+    Comments
+
+[33mcommit 0b082f72f3d87945863f6697f8268b9e72d04d31[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 6 18:05:56 2018 +0000
+
+    Comments
+
+[33mcommit d455df0c9e96d012614efc1bb96a47bf426c8737[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 6 17:57:17 2018 +0000
+
+    Log throwables on one line in Log4j2
+
+[33mcommit 2a82a71ab098462b065f005ff926b5f2bc750805[m
+Merge: da28980 2236f4a
+Author: j-barber <barber@galatea-associates.com>
+Date:   Tue Mar 6 09:10:16 2018 -0500
+
+    Merge pull request #173 from GalateaRaj/feature/issue-52-sync-stdout
+    
+    Issue #52 Log to stdout syncronously
+
+[33mcommit 2236f4ab58f27327d62d4467d005d67f2c12b420[m
+Merge: 1e3acb0 da28980
+Author: j-barber <barber@galatea-associates.com>
+Date:   Tue Mar 6 09:02:42 2018 -0500
+
+    Merge branch 'develop' into feature/issue-52-sync-stdout
+
+[33mcommit 1e3acb0d1596110be7706cecdd8219c66145db48[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Mar 6 08:55:32 2018 -0500
+
+    Issue #52 Log to stdout syncronously
+
+[33mcommit da28980aea8ae1e824c0e4115d2115a8e8fc681b[m
+Merge: 5c39dc4 b43e6c3
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Mar 6 07:57:59 2018 -0500
+
+    Merge pull request #130 from GalateaRaj/feature/issue-14-spring-rest-exceptions
+    
+    Issue #14 - Spring Rest Exception Handler
+
+[33mcommit b43e6c384786c62f03d331a87d2457cd8dd92f57[m
+Merge: 05f08b6 5c39dc4
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Tue Mar 6 07:49:13 2018 -0500
+
+    Merge branch 'develop' into feature/issue-14-spring-rest-exceptions
+
+[33mcommit 05f08b6dc1b03711349750966eeb79719117bcdb[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Mar 6 08:58:51 2018 +0000
+
+    File restructuring
+
+[33mcommit 5c39dc473edcf5ef81c7e5ac010d5d98951ae805[m
+Merge: e392452 8798f4b
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Mar 5 15:19:13 2018 -0500
+
+    Merge pull request #172 from GalateaRaj/feature/issue-169-app-id-for-cloud-foundry
+    
+    Feature/issue 169 app id for cloud foundry
+
+[33mcommit 8798f4bcb27f2468b26863911dc6ee19774ca055[m
+Merge: 75c6f6b e392452
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Mar 5 15:12:26 2018 -0500
+
+    Merge branch 'develop' into feature/issue-169-app-id-for-cloud-foundry
+
+[33mcommit 75c6f6b6ed89726ffaa40689815947007af40f05[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Mar 5 14:55:58 2018 -0500
+
+    Issue #169 replace "_" with "-"
+    
+    In an attempt to fix the build error:
+    [69-app-id-for-cloud-foundry-YRJWXNTV6WK42SEZGWKO7GPWN5TA754BMP2FE5YSIXADDOPTHKRQ]
+    Running shell script
+    /var/lib/jenkins/workspace/69-app-id-for-cloud-foundry-YRJWXNTV6WK42SEZGWKO7GPWN5TA754BMP2FE5YSIXADDOPTHKRQ@tmp/durable-28182039/script.sh:
+    2: /var/lib/jenkins/workspace/69-app-id-for-cloud-foundry-YRJWXNTV6WK42SEZGWKO7GPWN5TA754BMP2FE5YSIXADDOPTHKRQ@tmp/durable-28182039/script.sh:
+    Syntax error: Unterminated quoted string
+
+[33mcommit 8a75a149f5e55e5eddd32173d7a5267df111e75d[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Mar 5 18:23:57 2018 +0000
+
+    Move ApiError to service package
+
+[33mcommit 06da4d0c762da758c2030b1a7d32745f6f455e3e[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Mar 5 13:22:48 2018 -0500
+
+    Issue #169 Stop using Danny's CF credentials.
+
+[33mcommit 8a36ec69182ae2385c6134fe50dc780dcc70fecf[m
+Merge: 9bb89ae e392452
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 5 13:04:04 2018 -0500
+
+    Merge branch 'develop' into feature/issue-14-spring-rest-exceptions
+
+[33mcommit e3924526698f033308aa32d86d89237415dd17f6[m
+Merge: 7aad3fe 35e9ae1
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 5 09:40:33 2018 -0500
+
+    Merge pull request #171 from GalateaRaj/feature/issue-146-164-slack-notifications
+    
+    #146, #164 - Tweaking slack notifications to remove some of them and …
+
+[33mcommit 35e9ae16917df82de261f14458597245cefc0e3e[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 5 09:33:31 2018 -0500
+
+    #146, #164 - Re-commenting.
+
+[33mcommit 25cf998adb0b95957d63800d600c8945c77391cb[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 5 09:22:53 2018 -0500
+
+    #146, #164 - Adding some comments.
+
+[33mcommit 9bb89ae57d30e938a8a440c0626b6e3f4677f1fa[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Mar 5 14:05:03 2018 +0000
+
+    Comments
+
+[33mcommit 5a77a0eec070d34cfb15d04ab7e9e36324366161[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Mar 5 09:02:53 2018 -0500
+
+    #146, #164 - Tweaking slack notifications to remove some of them and adding channel mention to failed builds.
+
+[33mcommit 673c6ee6037e8b327cc1ea781772c51fdd63324f[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Mar 5 12:26:37 2018 +0000
+
+    Ensure SettlementMission qty is positive
+
+[33mcommit 2061ca1464067691468c5d086fe2ed768df6b8fc[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Mar 5 11:07:25 2018 +0000
+
+    Inline missionIds return
+
+[33mcommit b02228bc1efccf8c7a34ca9da84f260e80a3a6c6[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Feb 28 16:45:57 2018 +0000
+
+    No longer return ResponseEntity from SettlementRestController.
+    Return client-friendly error messages for EntityNotFoundException, DataAccessException & HttpMessageNotReadableException
+
+[33mcommit 2958e73d79efdce30a5ecb8a1cd187560a0fea64[m
+Merge: a8da148 5585906
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Feb 28 12:19:28 2018 +0000
+
+    Merge branch 'feature/issue-14-spring-rest-exceptions' of github.com:GalateaRaj/fuse-starter-java into feature/issue-14-spring-rest-exceptions
+
+[33mcommit a8da148e600eb9f04fbd84cbbf2e2115fd898aaa[m
+Merge: cac5e2f 7aad3fe
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Feb 28 12:16:33 2018 +0000
+
+    Merge branch 'develop' of github.com:GalateaRaj/fuse-starter-java into feature/issue-14-spring-rest-exceptions
+
+[33mcommit cac5e2fed957037dd76156ca3ef05d5d8ec85a61[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Wed Feb 28 12:13:06 2018 +0000
+
+    Handle DataAccessException.  Define generic EntityNotFoundException.
+
+[33mcommit 7aad3feb105873906eebc49e48749b827c83626f[m
+Merge: d1f90a9 4c3dc7a
+Author: j-barber <barber@galatea-associates.com>
+Date:   Tue Feb 27 09:38:05 2018 -0500
+
+    Merge pull request #166 from GalateaRaj/feature/issue-165-update-issue-template
+    
+    Issue #165 update issue template
+
+[33mcommit 4c3dc7a1b037487ea2c4cbccb5b4d1e79ff88e52[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Tue Feb 27 09:10:13 2018 -0500
+
+    Issue #165 update issue template
+    
+    Expanding help for Description
+
+[33mcommit 5585906a87aa9544b3677979bd93219dbe7c1ce9[m
+Merge: 2b8cc82 d1f90a9
+Author: gala-lightfoot <36625850+gala-lightfoot@users.noreply.github.com>
+Date:   Tue Feb 27 11:39:54 2018 +0000
+
+    Merge branch 'develop' into feature/issue-14-spring-rest-exceptions
+
+[33mcommit d1f90a9868661e302ad39ca730c84e7e21b194cb[m
+Merge: 48bd057 8b56063
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 16:10:40 2018 -0500
+
+    Merge pull request #162 from GalateaRaj/feature/issue-108-jacoco-maven-plugin
+    
+    #108 - jacoco maven plugin update to 0.8.
+
+[33mcommit 8b56063b1ffc0bd675500c9d45de87ab05c65bbc[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:59:09 2018 -0500
+
+    #108 - re-adding branch target.
+
+[33mcommit a4a51742f325c7b0ebbf4ecf4021b9f6e460267e[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:57:55 2018 -0500
+
+    #108 - re-adding branch target.
+
+[33mcommit be76ff4e2113bd947237b51f4e07be993b01f182[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:39:37 2018 -0500
+
+    #108 - still tweaking configs.
+
+[33mcommit fd7cfe946c68157a0a7df34b16c85232ac1a7584[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:24:19 2018 -0500
+
+    #108 - still tweaking configs.
+
+[33mcommit e725547657a1e3236d4da62f1946cde59a3b9fd6[m
+Merge: 001285d 48bd057
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:17:46 2018 -0500
+
+    Merge branch 'develop' into feature/issue-108-jacoco-maven-plugin
+    
+    # Conflicts:
+    #       Jenkinsfile
+
+[33mcommit 001285de14e18504cbc19674090db315ec4727b2[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 15:07:47 2018 -0500
+
+    #108 - rationalizing goals
+
+[33mcommit 48bd057ff6322cd2c763ebe0ba0182286cb13fcb[m
+Merge: e794e4a b35ad96
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Feb 26 14:57:28 2018 -0500
+
+    Merge pull request #163 from GalateaRaj/feature/issue-138-separate-sonar-analysis
+    
+    Feature/issue 138 separate sonar analysis
+
+[33mcommit 678dd4602eb0af610563b3eeb6aaae43e44a39f2[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 14:29:47 2018 -0500
+
+    #108 - nope, something cleared my binaries.
+
+[33mcommit b35ad96c7b79199ec71beeb4a1e35cd89be897aa[m
+Merge: 390fdd4 e794e4a
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Feb 26 14:26:44 2018 -0500
+
+    Merge branch 'develop' into features/issue-138-separate-sonar-analysis
+
+[33mcommit fc1b94826b84c039bf018a8d9eafb7d56fdb239b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 14:11:24 2018 -0500
+
+    #108 - removing goals from SonarQube step to check whether it does the right thing.
+
+[33mcommit 390fdd474e136c3bab98e8c71c203aa9794f8d50[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 14:11:12 2018 -0500
+
+    Issue #138 Removing broken classes
+
+[33mcommit 0180ef7662dec54993f6977e9342a72c95ac817f[m
+Merge: 8bbf9af e794e4a
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 14:05:41 2018 -0500
+
+    Merge remote-tracking branch 'remotes/origin/develop' into feature/issue-108-jacoco-maven-plugin
+
+[33mcommit e794e4afb43a4abb7c10a207377bc305b3de55d8[m
+Merge: 2898475 fe07179
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 13:59:11 2018 -0500
+
+    Merge pull request #161 from GalateaRaj/feature/issue-159-consistent-isdeploy-checks
+    
+    #159 - consistent checks for isDeployBranch()
+
+[33mcommit 8bbf9af1e16b05980effc5e049b11e72f66ea1fb[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 13:46:27 2018 -0500
+
+    #108 - jacoco maven plugin update to 0.8.
+
+[33mcommit fe0717952adefbb2dbac25a4e86e11b0bd92911b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Mon Feb 26 13:26:26 2018 -0500
+
+    #159 - consistent checks for isDeployBranch()
+
+[33mcommit 4b65c472da18cea75a7f1260bb8d21ce1feb8b6a[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 11:56:50 2018 -0500
+
+    Issue #138 More sonar errors
+
+[33mcommit 01aca3cc743a77b67a0fce6767ddbd9915a43917[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 11:40:14 2018 -0500
+
+    Issue #138 Class w/ sonar issues, for evaluating sonar's short-lived
+    branch strategy.
+
+[33mcommit 763d616a16d03a2d3e1a2494413b33f4595acd78[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 10:32:57 2018 -0500
+
+    Issue #138 Fixing some sonar issues and seeing if test coverage is a
+    thing for short-lived branches.
+
+[33mcommit 432577bb4efa6d9410c9b224c03192ac8d79e883[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:59:25 2018 -0500
+
+    issue #138 Class for sonar to complain about...
+
+[33mcommit 724ca4084ccde7ad40a6d4b4f44fa7ee97d07876[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:35:06 2018 -0500
+
+    Issue #138 Fixing echo syntax issue..
+
+[33mcommit f5c2f7327475e8a7dae7d33e568f4b70f82e1603[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:32:10 2018 -0500
+
+    Issue #138 Scrapping TARGET_BRANCH (was null)
+
+[33mcommit aed68895439d9ecf3ed0609d4a15379a727d4b46[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:17:50 2018 -0500
+
+    Issue #138 Using env.CHANGE_TARGET as target branch
+
+[33mcommit c14489a7bb32808b5584564079ff7aa923caa952[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:06:46 2018 -0500
+
+    Issue #138 actually populating targetBranch
+
+[33mcommit 0887b8c407fa5bab5edbea9fe795c245958d7ef5[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Mon Feb 26 09:02:04 2018 -0500
+
+    Issue #138 Specify target branch
+
+[33mcommit da2ed44482b9ba3d58afd50153058c3a69de9237[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Feb 23 16:16:27 2018 -0500
+
+    Issue #138 Separate out Sonar analysis of feature/PR/develop branches
+
+[33mcommit 28984753169165d7295f8b1644f7147179ae3f6d[m
+Merge: 628eb06 6010f46
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 16:06:33 2018 -0500
+
+    Merge pull request #158 from GalateaRaj/feature/issue-152-shutdown-if-tests-fail
+    
+    Issue 152 shutdown if tests fail
+
+[33mcommit 6010f4658c7254d6d9e9edb6213639c228d285c1[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 14:59:47 2018 -0500
+
+    #152 - reinstating parameters for successful integration tests.
+
+[33mcommit 00e3d9580405c0cc474d947bd03b04d945c1529a[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 14:46:30 2018 -0500
+
+    #152 - failure, not fail.
+
+[33mcommit fb31b086058fffac50f1cc92e667630a54726f87[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 14:44:39 2018 -0500
+
+    #152 - a little refactoring to rationalize code that was redundant.
+
+[33mcommit 583c8e9c33f6627411ea744f92a0f224a64f8295[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 14:42:49 2018 -0500
+
+    #152 - changed the shutdown logic to be a function called in the post blocks of the integration and performance tests if those stages fail, otherwise run as its own stage. Also introduce a break to the integration tests to test it.
+
+[33mcommit 628eb06ccbd977c729c2dc5293831bba84c140be[m
+Merge: 4b16c42 f9c8744
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 12:46:08 2018 -0500
+
+    Merge pull request #151 from GalateaRaj/feature/issue-137-sandbox-cf
+    
+    Feature/issue 137 sandbox cf
+
+[33mcommit f9c8744c9eb142ff1b0d3c9079077d61d77e18e0[m
+Merge: 9edfbe9 4b16c42
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 11:54:57 2018 -0500
+
+    Merge branch 'develop' into feature/issue-137-sandbox-cf
+
+[33mcommit 4b16c42f4805e5bd1f89b42680bdaa9489d943a8[m
+Merge: da586de baf9dc2
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 11:48:36 2018 -0500
+
+    Merge pull request #157 from GalateaRaj/feature/issue-122-stop-repeat-unit-test-runs
+    
+    Issue #122 Run unit tests fewer times
+
+[33mcommit 9edfbe9857ab074083320aa476949711abd0ee37[m
+Merge: 11c05ca da586de
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 11:46:00 2018 -0500
+
+    Merge branch 'develop' into feature/issue-137-sandbox-cf
+
+[33mcommit baf9dc2173d85c7149774f912c8e297ef7156a4b[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Feb 23 11:28:31 2018 -0500
+
+    Issue #122 Run unit tests fewer times
+
+[33mcommit 11c05cadbefbcea5cae2d36d1becb14aab44025c[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 11:26:52 2018 -0500
+
+    #137 - Renaming the sandbox paremeter and instead of throwing an exception, defaulting to the main fuse app in PCF.
+
+[33mcommit da586dea7ea6961c82b10ba45f7aca02f76ad5ef[m
+Merge: 2038a09 ebf683a
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 11:06:24 2018 -0500
+
+    Merge pull request #156 from GalateaRaj/feature/issue-139-run-perf-tests-on-PRs
+    
+    Issue #139 Run perf tests on PR builds
+
+[33mcommit 3864b6829fa7b8a0ad5466a7719437cabecff084[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 10:58:55 2018 -0500
+
+    #137 - Adding a parameter to the integration tests to connect to the right fuse sandbox.
+
+[33mcommit ebf683a8c913dcc3528df2a7c88f81f51fa2bea6[m
+Merge: 69f0427 2038a09
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 10:47:08 2018 -0500
+
+    Merge branch 'develop' into feature/issue-139-run-perf-tests-on-PRs
+
+[33mcommit 69f04278a388e1f0fedf551eac71c77c5afef4cd[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Feb 23 10:45:44 2018 -0500
+
+    Issue #139 Run perf tests on PR builds
+
+[33mcommit 2038a09cd0a9a9a97d4b6c1f443419bcedeeaccf[m
+Merge: 2c6d698 a306a3f
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 10:31:39 2018 -0500
+
+    Merge pull request #154 from GalateaRaj/feature/issue-134-define-code-owners
+    
+    Issue #134 Adding the rest of the code owners
+
+[33mcommit 9691f5326af0bbc2843cf7f04ee273d05062357e[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 10:24:56 2018 -0500
+
+    Revert "#137 - Trying non-inline manifest with the same tokens. Reading through DeploymentInfo.java in the cloudfoundry-plugin code it should read from the file and expand all tokens."
+    
+    This reverts commit f492dec5f9543b8d0064cfae6e1bc4ce19d470e6.
+
+[33mcommit a306a3f219d5a319cbcc6c176f9b44c974a20e29[m
+Merge: 2d33bb4 2c6d698
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 10:15:20 2018 -0500
+
+    Merge branch 'develop' into feature/issue-134-define-code-owners
+
+[33mcommit f492dec5f9543b8d0064cfae6e1bc4ce19d470e6[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 10:15:19 2018 -0500
+
+    #137 - Trying non-inline manifest with the same tokens. Reading through DeploymentInfo.java in the cloudfoundry-plugin code it should read from the file and expand all tokens.
+
+[33mcommit 2d33bb49cc3b80909d4814f793a3ab3cdef5ea3f[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Feb 23 10:08:07 2018 -0500
+
+    Issue #134 Adding the rest of the code owners
+
+[33mcommit 0388126228d7c01189fdf59daab74e307d7a1e60[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 10:05:17 2018 -0500
+
+    #137 - Re-added the deletion of the app.
+
+[33mcommit 2c6d69812ac456e5a16f513f750f0a82a033129a[m
+Merge: 6b62f52 c5387c0
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Feb 23 09:58:41 2018 -0500
+
+    Merge pull request #153 from GalateaRaj/feature/issue-134-define-code-owners
+    
+    Issue #134 Define CodeOwners for reviews
+
+[33mcommit fb4a4a09aadf1e8e60cc05bc057bc0ba4f78262d[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 09:44:41 2018 -0500
+
+    #137 - Jenkins complaining of unterminated strings.
+
+[33mcommit 88d872cc118669b6bcf731b25f83845f29c2d6bf[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 09:40:58 2018 -0500
+
+    #137 - GIT_REVISION doesn't seem to be populated. Stack overflow seems to suggest GIT_COMMIT is a better one. Added a step to the shutdown stage to delete the application afterwards.
+
+[33mcommit c5387c0db158eee8ebae2bdf022404aa57a37f96[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Fri Feb 23 09:27:38 2018 -0500
+
+    Issue #134 Define CodeOwners for reviews
+
+[33mcommit 23c3733091cb42479c83fd2a20afafe24fef7047[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 09:17:33 2018 -0500
+
+    #137 - Double vs. single quotes derp. Back to GIT_REVISION. Also stopping the right application now.
+
+[33mcommit 6f7810ac27d41bc0f3a655f98d9544938ed4896d[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 09:05:32 2018 -0500
+
+    #137 - Trying another variable.
+
+[33mcommit 160b7a729a03f7c6798745d24275ecd2018b30e4[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:49:54 2018 -0500
+
+    #137 - Trying another variable.
+
+[33mcommit ee75a42cb91c31ed39871b40caa4a8d9fe1200d0[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:43:27 2018 -0500
+
+    #137 - Getting somewhere. Correcting the variable.
+
+[33mcommit 38a7de25651e800894242328e82568bc7ec57768[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:37:57 2018 -0500
+
+    #137 - Getting somewhere. Correcting the variable.
+
+[33mcommit c9fd82b91f9cc31f2e304f8ac203f7e8f199fc42[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:29:01 2018 -0500
+
+    #137 - 2nd try with value: 'jenkinsConfig'.
+
+[33mcommit 80ed2ffbc65c37c0c2a9964d23018323ef5006ba[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:22:53 2018 -0500
+
+    #137 - reverting last change due to weird jenkins error.
+
+[33mcommit 65ea481042a64ac2724bf0eccb5f31aab3cd82f9[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:12:30 2018 -0500
+
+    #137 - we'll get there.
+
+[33mcommit 65f1c4a475224866051a6635fc6950578ab11601[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Fri Feb 23 08:11:39 2018 -0500
+
+    #137 - we'll get there.
+
+[33mcommit a6baeb4d28d8131f4deac49ef175fd096c1aedcc[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 22:24:52 2018 -0500
+
+    #137 - De-derping previous commit.
+
+[33mcommit c6e0e9a3d9859fe9c50e0ca2b41c073f632a8700[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 22:13:39 2018 -0500
+
+    #137 - De-derping previous commit.
+
+[33mcommit 9d1eac442fcdbe15bbffce87d66d279e8178f166[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 22:04:09 2018 -0500
+
+    #137 - Declaring a manifest inline. Need to test it with Jenkins.
+
+[33mcommit 6b62f5267557ab777e2717554b7c735634f3f93b[m
+Merge: b32bf84 fdc0db2
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 16:59:30 2018 -0500
+
+    Merge pull request #150 from GalateaRaj/issue-143-h2-in-memory-db
+    
+    #143 - configuring H2 database in-memory.
+
+[33mcommit fdc0db2c79ca78d2dd84f54ab6a91a25ba8d0a4e[m
+Merge: 418ffa7 b32bf84
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 15:50:02 2018 -0500
+
+    Merge branch 'develop' into issue-143-h2-in-memory-db
+
+[33mcommit b32bf84f02a7e9387923467362f537314583ecbb[m
+Merge: d64b54d b652d10
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 15:48:27 2018 -0500
+
+    Merge pull request #149 from GalateaRaj/issue-148-intellij-configs
+    
+    Issue #148 intellij configs
+
+[33mcommit b652d10c0520225f69e28b642514bc4594708ae1[m
+Merge: 07e1c05 d64b54d
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 15:30:18 2018 -0500
+
+    Merge branch 'develop' into issue-148-intellij-configs
+
+[33mcommit d64b54d88e573b0395ed9e612666bbf9d541dd92[m
+Merge: 9352b90 75ff4fc
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 15:29:46 2018 -0500
+
+    Merge pull request #140 from GalateaRaj/feature/issue-135-remove-checkstyle
+    
+    Issue #135 Remove checkstyle check from Jenkins pipeline
+
+[33mcommit 418ffa72c619f87d69865951600354d8ff7a147b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 13:56:44 2018 -0500
+
+    #143 - configuring H2 database in-memory.
+
+[33mcommit 07e1c053c5d1ee59fc0c84a34b4ae6d4cda0a237[m
+Merge: 78036c2 9352b90
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 13:02:00 2018 -0500
+
+    Merge remote-tracking branch 'remotes/origin/develop' into issue-148-intellij-configs
+
+[33mcommit 78036c292f8acafb2fe7aa1c6edf33bcf145bd8b[m
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 12:04:36 2018 -0500
+
+    #148 - fix run configurations for IntelliJ Idea.
+
+[33mcommit 75ff4fcb1c110c4edfa4f82fc49569abb220f478[m
+Merge: d7b59fc 9352b90
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 11:52:34 2018 -0500
+
+    Merge branch 'develop' into feature/issue-135-remove-checkstyle
+
+[33mcommit 9352b906ea8d6c1fb043d1ca7d813205cf61757a[m
+Merge: 20e02b5 efc245d
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 11:52:11 2018 -0500
+
+    Merge pull request #147 from GalateaRaj/feature/issue-144-issue-template
+    
+    Issue #144 create issue template
+
+[33mcommit efc245d2e7304103c67fabfad805bd4e81548f74[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 11:41:15 2018 -0500
+
+    Issue #144 create issue template
+
+[33mcommit d7b59fcb36316051aa0e7f9341055ba9854e9f35[m
+Merge: e126a57 20e02b5
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 11:23:15 2018 -0500
+
+    Merge branch 'develop' into feature/issue-135-remove-checkstyle
+
+[33mcommit 20e02b50814fcf8d0e01c4541a520d383b2dec3a[m
+Merge: 023453b 827d33f
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 11:13:54 2018 -0500
+
+    Merge pull request #129 from GalateaRaj/feature/issue-127-remove-fuse-iml
+    
+    Issue #127 Remove fuse-starter-java.iml from project
+
+[33mcommit 827d33f33d1b5a5004dac34ee7a852487245c1fd[m
+Merge: 1bb49da 023453b
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 11:01:49 2018 -0500
+
+    Merge branch 'develop' into feature/issue-127-remove-fuse-iml
+
+[33mcommit 023453b65b707be9cdeaab86cbf64aa9d8c53b72[m
+Merge: 4be2773 c671842
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 10:49:19 2018 -0500
+
+    Merge pull request #118 from GalateaRaj/feature/issue-114-enable-norun-unit-tests
+    
+    Feature/issue 114 enable norun unit tests
+
+[33mcommit c67184259fd249b2a3b34458c44277ff69be1ae5[m
+Merge: 828e363 4be2773
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 10:39:12 2018 -0500
+
+    Merge branch 'develop' into feature/issue-114-enable-norun-unit-tests
+
+[33mcommit 1bb49daa13b3d3435be7c012401861019d5ddc06[m
+Merge: 29a9eae 4be2773
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 10:13:12 2018 -0500
+
+    Merge branch 'develop' into feature/issue-127-remove-fuse-iml
+
+[33mcommit e126a5724901b5c90056b01480d9e94d69ba0449[m
+Merge: 3e67c75 4be2773
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 10:11:35 2018 -0500
+
+    Merge branch 'develop' into feature/issue-135-remove-checkstyle
+
+[33mcommit 4be2773f4089c39effeb30195500c53d527e0ffe[m
+Merge: 60c81b6 fedfb3f
+Author: paulo-reichert <reichert@galatea-associates.com>
+Date:   Thu Feb 22 10:10:53 2018 -0500
+
+    Merge pull request #142 from GalateaRaj/feature/issue-141-increase-sonar-timeout
+    
+    Issue #141 Wait 2 minutes for Sonar results
+
+[33mcommit fedfb3fdea8ddadee45315f4e7fea79889c6be9b[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 22 09:59:15 2018 -0500
+
+    Issue #141 Wait 2 minutes for Sonar results
+
+[33mcommit 3e67c755e3903cb638d43db54f3b1100a8c9c6e5[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 22 09:00:17 2018 -0500
+
+    Issue #135 Remove checkstyle check from Jenkins pipeline
+
+[33mcommit 828e3633895f6e9ce9155c3ed4245aaeb12b945c[m
+Merge: d50585c 60c81b6
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 08:40:58 2018 -0500
+
+    Merge branch 'develop' into feature/issue-114-enable-norun-unit-tests
+
+[33mcommit 60c81b68227be5b6b480471546b54c6721977c93[m
+Merge: 7d7f2c7 38889ea
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Feb 22 08:06:06 2018 -0500
+
+    Merge pull request #120 from GalateaRaj/feature/issue-119-run-ITs-on-commit-to-develop
+    
+    Issue #119: Run ITs on commits to Develop
+
+[33mcommit 38889eaf04df82b31c42773b8b3241f290336dff[m
+Merge: 4d43b41 7d7f2c7
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:38:36 2018 -0500
+
+    Merge branch 'develop' into feature/issue-119-run-ITs-on-commit-to-develop
+
+[33mcommit 7d7f2c7a9eca67d2f685e9e656dcc9ccebfb1f18[m
+Merge: 339c564 8f36264
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:36:13 2018 -0500
+
+    Merge pull request #126 from GalateaRaj/feature/issue-63-remove-CachingConfig
+    
+    Feature/issue #63 remove caching config
+
+[33mcommit 8f3626439e3c053e6e409d47d4e4463c156905bd[m
+Merge: 46013e9 339c564
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:18:35 2018 -0500
+
+    Merge branch 'develop' into feature/issue-63-remove-CachingConfig
+
+[33mcommit 339c564d346b7b3f8ca726e1a8b5545a77e76df7[m
+Merge: c5d8256 5f307e4
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:17:58 2018 -0500
+
+    Merge pull request #128 from GalateaRaj/feature/issue-82-sonar-readme
+    
+    Issue #82 Update Sonar instructions
+
+[33mcommit 5f307e486501901f04209fc73116c3fbd0b15d04[m
+Merge: e6d4c07 c5d8256
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:02:31 2018 -0500
+
+    Merge branch 'develop' into feature/issue-82-sonar-readme
+
+[33mcommit c5d8256f87b2cd60444192fa0c9c68fad8e00d25[m
+Merge: 0cf3a87 e375a69
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 16:01:59 2018 -0500
+
+    Merge pull request #123 from GalateaRaj/feature/issue-117-log-to-stdout
+    
+    Issue #117 Create log config to write to stdout
+
+[33mcommit 46013e91913b1ab91b91ddba169a0f3fc04505b1[m
+Merge: 216473a 0cf3a87
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 14:05:50 2018 -0500
+
+    Merge branch 'develop' into feature/issue-63-remove-CachingConfig
+
+[33mcommit e6d4c07973b7f50ed1212846d588284ff264823c[m
+Merge: 310db9d 0cf3a87
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Feb 21 13:54:58 2018 -0500
+
+    Merge branch 'develop' into feature/issue-82-sonar-readme
+
+[33mcommit e375a69a7b8f2f6658cb896c093fc2019c48b1ec[m
+Merge: 103f153 0cf3a87
+Author: James Barber <jbarber@Galatea.com>
+Date:   Wed Feb 21 13:44:51 2018 -0500
+
+    Merge branch 'develop' into feature/issue-117-log-to-stdout
+
+[33mcommit 0cf3a871e051789bce75d9499fee34605e55949e[m
+Merge: 300aa6f 61543c0
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Wed Feb 21 13:38:53 2018 -0500
+
+    Merge pull request #121 from GalateaRaj/feature/issue-116-CF-IT-Failures
+    
+    Issue #116 Sleep between CF deploy and running ITs.
+
+[33mcommit 2b8cc82b38337360c0403021011d2c572c6d1679[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Feb 20 10:36:33 2018 +0000
+
+    ApiError annotations.  Test exception naming.
+
+[33mcommit f3b090d4b62598d57b17a91f4b2c7379f14a4d7e[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Tue Feb 20 09:51:05 2018 +0000
+
+    Comments
+
+[33mcommit b74305d903f1b43742fd1a0a25b964c2a390348b[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 17:03:08 2018 +0000
+
+    Imports
+
+[33mcommit 4f3ef88c2a606a6b87c0d5ff473bf0d97ce00c68[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 15:50:30 2018 +0000
+
+    Comments
+
+[33mcommit 07713337680b1eba58cf700d68dd821590b2373e[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 15:39:40 2018 +0000
+
+    Comments
+
+[33mcommit 7d70972ace5dda0129dc465287113aca063fd3f8[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 15:34:06 2018 +0000
+
+    Utilise a Spring Exception Handler
+
+[33mcommit ba09820812c5f4129983cfaf88e72fbaa3beb37e[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 14:33:44 2018 +0000
+
+    Nonexistant mission controller call now throws REST exception
+
+[33mcommit 29a9eaeda2c53af4aa0c4ec4bade9d12e052ae85[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 13:16:16 2018 +0000
+
+    Gitignore all .iml files
+
+[33mcommit d6de727a83bab8e5df307e89f352721b8710d347[m
+Author: Sam Lightfoot <lightfoot@galatea-associates.com>
+Date:   Mon Feb 19 12:11:28 2018 +0000
+
+    Untrack fuse-starter-java.iml
+
+[33mcommit 310db9ddd58ed4b2da64a3072698c5c5c8112e9e[m
+Merge: 7bd0d92 206efda
+Author: James Barber <jbarber@Galatea.com>
+Date:   Thu Feb 15 11:43:51 2018 -0500
+
+    Merge branch 'feature/issue-82-sonar-readme' of https://github.com/GalateaRaj/fuse-starter-java into feature/issue-82-sonar-readme
+
+[33mcommit 7bd0d9288c6eedd7c6103f86fcad264f4ed03a63[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 15 11:29:17 2018 -0500
+
+    Issue #82 Update Sonar instructions
+
+[33mcommit 206efda554067adbdc42e0d0c0a0f8478ad8da15[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 15 11:29:17 2018 -0500
+
+    Issue 82 Update Sonar instructions
+
+[33mcommit 216473aa68fcf3b81954f407a0dc89d101756fc4[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Wed Feb 14 11:49:46 2018 -0500
+
+    Issue 63: Removing spring-context-support dep.
+    
+    No longer needed since we got rid of CachingConfig.
+
+[33mcommit 23feceae7c972145999d2887d5c00e27a582ddf2[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Wed Feb 14 10:52:01 2018 -0500
+
+    Issue #38 Removing CachingConfig (Spring Boot handles that for you)
+
+[33mcommit 103f15339940b09efe13e4b192fcc9d405289cbc[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 17:23:55 2018 -0500
+
+    Issue #117: Created local and CF envs in postman
+
+[33mcommit 03bb12370b0c52a3b9f35a99d14bb742f469630b[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 17:12:57 2018 -0500
+
+    Issue #117 Create log4j2 config to dump all logs to stdout, and use in
+    the manifest.
+
+[33mcommit 61543c062ac9412dc8f25e43ddd1d9a4d259c465[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 14:05:02 2018 -0500
+
+    Issue #116 Sleep between CF deploy and running ITs.
+
+[33mcommit 4d43b41121a7980fb388c7042aa9fa1e288ce8da[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 13:35:16 2018 -0500
+
+    Issue #119: Run ITs on commits to Develop
+
+[33mcommit d50585c874381b32f06f0f44cae4e81298ef0156[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 11:44:24 2018 -0500
+
+    Reverting change to .project
+
+[33mcommit 86e984d482563e7bb85568830b4a2d058cbcdf35[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Tue Feb 13 11:37:55 2018 -0500
+
+    Creating skip-surefire-test property to allow skipping just surefire
+    tests.
+
+[33mcommit 300aa6fa0596942249e3b34c1690e956d60c98ad[m
+Merge: 13e1030 d8b8264
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Feb 13 15:19:52 2018 +0000
+
+    Merge pull request #113 from GalateaRaj/feature/issue-110-test-readme
+    
+    Feature/issue 110 test readme
+
+[33mcommit d8b826411aa252078175217349dd3df63aa75baf[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 8 12:13:47 2018 -0500
+
+    configured SonarCloud
+
+[33mcommit ed6867eb3ef36961736564ef0bdc88afe6a0fec9[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 8 10:11:29 2018 -0500
+
+    ranamed log4j2-test to log4j2-debug
+
+[33mcommit 4a41e6811a0214c8c29a0c604bb34d42873939d0[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Thu Feb 8 08:41:26 2018 -0500
+
+    correctly reference log4j2-test.yml in pom.xml
+    turn off log4j status logging at 'trace' level
+
+[33mcommit affa39bfaeff8fb5893cbac25693741ad0a60b89[m
+Author: James Barber <jbarber@2017-COMPUTER8.Galatea.com>
+Date:   Wed Feb 7 16:46:59 2018 -0500
+
+    Updating readme.md as per issue #110
+
+[33mcommit 13e10305796f15e22e9e171d3faab2e5a0b02a9c[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Jan 10 14:29:32 2018 -0500
+
+    Updated builds section of readme
+
+[33mcommit 2059a7a22f50aca7ebe7cd7a40edd90f86212aab[m
+Author: gala-susie <34013495+gala-susie@users.noreply.github.com>
+Date:   Thu Dec 21 13:58:15 2017 +0000
+
+    Feature/issue 100 slack integration (#103)
+    
+    * Updated Jenkins file to include Slack integration and tidied a few things up
+
+[33mcommit 321eb5fccee2b447b30441ddb4d41ba42e5d43a6[m
+Merge: eb83f60 bc165a2
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Tue Dec 19 14:45:35 2017 -0500
+
+    Merge pull request #102 from GalateaRaj/feature/issue-84-pipeline-updates
+    
+    Feature/issue 84 pipeline updates
+
+[33mcommit bc165a2ee24cd3b53e223caee84c14fe7592a284[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 19 11:57:40 2017 +0000
+
+    #68 - updated README.md to provide details on IntelliJ style file
+
+[33mcommit 91f6069ea32f139dd96c6e399cdb43ee3629c7ad[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 19 08:48:43 2017 +0000
+
+    #84 - fixed bug in shutdown stage
+
+[33mcommit c5127c4f062517049c46cfa9b5135286e51b5f1b[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Dec 15 11:28:56 2017 +0000
+
+    #84 - tidy
+
+[33mcommit 8b025e840a824b735d23731eb63520ef108ff3b7[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Thu Dec 14 17:28:50 2017 +0000
+
+    #84 - replaced usage of environment variables for proper credentials to improve security
+
+[33mcommit 6b6e29aad262e3da30836f407b205ff74179065a[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Thu Dec 14 15:50:45 2017 +0000
+
+    #84 - login before stop app and then logout after
+
+[33mcommit f04da7152d5dd7e41a3e76bc5388762bbea3c391[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Thu Dec 14 14:18:35 2017 +0000
+
+    #84 - CF cli now installed on Jenkins server so uncommented out shutdown step
+
+[33mcommit aac326eddfdb788fa1f0abdb253209cb63c48cf2[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Wed Dec 13 17:11:51 2017 +0000
+
+    #84 Added timeout to stop command
+
+[33mcommit 91671be5bf491d5d04803c6abc4ab1c455e3e684[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Wed Dec 13 17:04:58 2017 +0000
+
+    #84 - iml file updated following merge from develop
+
+[33mcommit c6fa75b854d1f0e8725380891544e83a60e330fa[m
+Merge: 42c6a9c eb83f60
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Wed Dec 13 16:59:40 2017 +0000
+
+    Merge remote-tracking branch 'origin' into feature/issue-84-pipeline-update
+    Merging from develop
+
+[33mcommit 42c6a9c7297ca410914966ee16363253144cdc10[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Wed Dec 13 16:59:37 2017 +0000
+
+    #84 Added shutdown step to Jenkins file
+
+[33mcommit eb83f607d93601f612dea376d0d697cb197be906[m
+Merge: 9e4322c 2d3dd0d
+Author: gala-dan <kelley@galatea-associates.com>
+Date:   Wed Dec 13 16:56:16 2017 +0000
+
+    Merge pull request #99 from GalateaRaj/feature/issue-97-first-integration-test
+    
+    Feature/issue 97 first integration test
+
+[33mcommit 2d3dd0dddd027fa1af800eaf77fa6887a753a6ab[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Wed Dec 13 11:46:49 2017 -0500
+
+    add mvn package step to the Jenkinsfile so we produce the jar that is to be deployed to cloud foundry
+
+[33mcommit 7c3f81b7d42fe7b189455a294a2e15f16daf2364[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Wed Dec 13 10:50:56 2017 -0500
+
+    update the sonar analysis step in the jenkins pipeline to not do a mvn install, but instead do mvn compile test-compile test.  This keeps the integration tests from running as part of the sonar unit test coverage analysis
+
+[33mcommit 21b237eb0aa664d1995163897e9767cd5c1e481b[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Wed Dec 13 10:28:14 2017 -0500
+
+    remove AllTestRunner.java to avoid running integration tests twice on account of the TestSuite; add our first integration test that talks to the CF dev instance
+
+[33mcommit 9e4322cb0550394edcdbada2cb43635b838ab1ec[m
+Merge: 45fd970 6301784
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Tue Dec 12 08:28:20 2017 -0500
+
+    Merge pull request #96 from GalateaRaj/feature/issue-79-jenkins-pipeline
+    
+    Feature/issue 79 jenkins pipeline
+
+[33mcommit 6301784f811a42547702c298db00127479b6efc6[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 12 13:22:44 2017 +0000
+
+    ISSUE-79
+    - adding file back in after mistakenly removed
+
+[33mcommit d8e625bd6dcf7c55a98f77bf91f02e5c16e2fc2a[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 12 11:46:07 2017 +0000
+
+    ISSUE-79
+    - updated README.md to include build server details
+
+[33mcommit 711ab9959f2ef99dfc3b1fb2d22d42785d1cf003[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 12 11:24:32 2017 +0000
+
+    ISSUE-79
+    - updated Spring Boot version
+
+[33mcommit fc91accc6a111fe072c790fdab8bbf393fa5b138[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 12 11:20:42 2017 +0000
+
+    ISSUE-79
+    - using spaces for indentation
+
+[33mcommit 5ac7b132d543ed68feb887cb8ce028b7128e484f[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Tue Dec 12 10:16:01 2017 +0000
+
+    ISSUE-79
+    - tidied Jenkinsfile
+    - publish test and checkstyle reports
+    - updated CF credentialsId to use Jenkins stored credentials
+    - minor tidy based on IntelliJ warnings
+
+[33mcommit a706c9584c54457f3f43e87bde86b702b0432e91[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 14:34:59 2017 -0500
+
+    fix backslash to front slash to pick up the deployable jar on linux instead of windows
+
+[33mcommit 8c943c46f036e46a079b3732c1003d7ddf669872[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 14:28:43 2017 -0500
+
+    enable first attempt to deploy to cloud foundry
+
+[33mcommit 7cf59319badae1d7736660dcd80c5a5b1e6a7230[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 14:09:58 2017 -0500
+
+    fix checkstyle problems, in particular just avoid the use of the <p> tag in javadocs
+
+[33mcommit 9c6ff43da81b1f2f8b0de2fc0057cd706f730422[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 13:42:02 2017 -0500
+
+    add SettlementMission.java to the sonar coverage exclusion, the lombox annotations count against us...
+
+[33mcommit 63f859a980a3013aa82be62b54600096604a3a0f[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 13:38:18 2017 -0500
+
+    whoops, try FuseWebRequestTraceFilter instead
+
+[33mcommit 0adf60fcf35fe34816f3f5cf4c0c05571b4cea34[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 13:35:43 2017 -0500
+
+    attempting to exclude FuseTraceRepository.java from code coverage
+
+[33mcommit 07a6d3fae0aa31d7916b0c017d3a2d6c9e01d9b5[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 13:22:54 2017 -0500
+
+    #79 -- fix google checkstyle issues; mostly adding javadocs.
+
+[33mcommit 8e4299ec3dba686fd267e7941a93cadcd134f993[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 11:44:48 2017 -0500
+
+    #79 -- add unit test coverage for SettlementService
+
+[33mcommit 29c874e8649ec71a10df38b5896f41793d825bf3[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 11:19:59 2017 -0500
+
+    #79 -- update Jenkinsfile to invoke jacoco plugin with sonar for test coverage and move unit test step to before SonarCloud step
+
+[33mcommit 2e7ee72aec753d25613e195735e9e7a8df1b69bd[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 11:14:37 2017 -0500
+
+    #79 -- increase unit test coverage
+
+[33mcommit 26676cac0d5795dad1461d3df7748f8dad3603d6[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Mon Dec 11 10:12:51 2017 -0500
+
+    #79 -- add unit tests for Helpers to pass sonarcloud quality gate
+
+[33mcommit 2fff59f9cf64c27206276b7d505ae82b874d5d3f[m
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Fri Dec 8 16:11:57 2017 -0500
+
+    Adding unit tests
+
+[33mcommit 5eccb329c44ee842526ce9d844db34d7d869e2dc[m
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Fri Dec 8 11:38:16 2017 -0500
+
+    Fixing CF deploy parameters
+
+[33mcommit fc7e7cf1da41918d1a0d2ad2ab57b91cee45a4e8[m
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Fri Dec 8 08:53:45 2017 -0500
+
+    Resolving merge conflict
+
+[33mcommit ea98977dac949cbef5663d1d342b7cb3da9a47bb[m
+Merge: 57333b8 45fd970
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Fri Dec 8 08:51:25 2017 -0500
+
+    Resolving merge conflict
+
+[33mcommit 45fd9707d060b6329dd2c1dae9c3cc1ad8cd1066[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Dec 8 08:11:35 2017 -0500
+
+    Remove capsule and add cf manifest files
+
+[33mcommit 57333b80580687912f452ec171bf0f5209871d95[m
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Thu Dec 7 14:59:55 2017 -0500
+
+    Fixed bug in deploy phase and updated cloud foundary details
+
+[33mcommit 18a444dc87b1a2874bc7e1bcbc71bd9eb7bd29ec[m
+Author: Daniel Kelley <dkelley@Galatea.com>
+Date:   Thu Dec 7 09:56:47 2017 -0500
+
+    Updated checkstyle plugin config to work with google checks
+
+[33mcommit bb18db2ae379a00f286e3e30337e2608a763ed48[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Mon Dec 4 17:10:51 2017 +0000
+
+    ISSUE-79
+    - added CF deployment step placeholder after installed CF Jenkins plugin
+
+[33mcommit a6bcb794a4c6123cd27607b4ffc163739d05bf5f[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Mon Dec 4 11:32:25 2017 +0000
+
+    ISSUE-79
+    - added PR build check and simplified another step
+
+[33mcommit 4e7184ff5999a02746a3c73f0b73d95644316ad0[m
+Merge: 1e73dc7 a915ec4
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Mon Dec 4 09:47:29 2017 +0000
+
+    Merge remote-tracking branch 'origin/develop' into feature/issue-79-jenkins-pipeline
+
+[33mcommit a915ec4fb13290dd504eea0d9219f6e6201c5afe[m
+Merge: 78f051c b0afdc8
+Author: GalateaEric <34042892+GalateaEric@users.noreply.github.com>
+Date:   Fri Dec 1 16:01:48 2017 -0500
+
+    Merge pull request #93 from GalateaRaj/feature/issue-47-updated-readme
+    
+    Feature/issue 47 updated readme
+
+[33mcommit b0afdc8e78d9fcc0c740b0a2c836c3ff5e558ff9[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Fri Dec 1 15:46:10 2017 -0500
+
+    #47 -- re-add IDE files, update README
+
+[33mcommit 9dc6e1ce4f5fae9ac34d27ef6dd2c26ba1d1ab61[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Fri Dec 1 15:18:45 2017 -0500
+
+    #47 -- update README to support both Eclipse and IntelliJ.  Support sensible defaults for logging for unit tests to obviate the need for an IDE specific launch script for running unit test classes
+
+[33mcommit 1e73dc7dfe823b7d722665fd74256dc9300b40a2[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Dec 1 15:08:51 2017 +0000
+
+    ISSUE-79
+    - more tweaks to Jenkinsfile
+
+[33mcommit 9b871ca25202af0c03490da2828043878df019a7[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Dec 1 14:06:36 2017 +0000
+
+    ISSUE-79
+    - tidied and updated Jenkinsfile to conform to new standards
+
+[33mcommit 9bb148387d002938377a6594c81e99cbb1d7084f[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Dec 1 11:32:41 2017 +0000
+
+    ISSUE-79
+    - tidied pom and Jenkinsfile
+
+[33mcommit 3b181bcf310217dc3e8bb3754747229a69f02da8[m
+Author: Eric Collins <eric@galatea-associates.com>
+Date:   Thu Nov 30 13:14:39 2017 -0500
+
+    fix indentation issues in README
+
+[33mcommit 0d6e8488182022f9941982c31408e90f6be10d7a[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Thu Nov 30 13:12:01 2017 +0000
+
+    ISSUE-79
+    - added some comments to Jenkins file
+
+[33mcommit 9af9888403ab062fc65847a9c0d8b4c98cc3f2ab[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Thu Nov 30 09:43:33 2017 +0000
+
+    ISSUE-79
+    - amended Jenkinsfile to change check style command
+    - added Maven checkstyle plugin
+
+[33mcommit 38c76c90e7b52100c0376ab846f39002aaa5eb44[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Wed Nov 29 13:45:32 2017 +0000
+
+    ISSUE-79 - added checkstyle plugin and checkstyle step
+
+[33mcommit 241d0c109b79c183c79bca80f936234c9d2d9984[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Mon Nov 27 11:36:12 2017 +0000
+
+    ISSUE-79 - resolved syntax error in script and added branch name to debug output for testing
+
+[33mcommit f7cbfd1ee16479cc2bd351745ebaba42c33267d2[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Nov 24 13:40:41 2017 +0000
+
+    Issue 79 - Added WIP Jenkinsfile for pipeline builds. Also tidied couple of SonarQube analysis issues.
+
+[33mcommit 78f051c16c8445f59c6564c171236bd21b1cf36b[m
+Merge: 9c53960 0b28b3f
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Fri Nov 24 13:28:30 2017 +0000
+
+    Merge remote-tracking branch 'origin/master' into develop
+
+[33mcommit 9c539606136cc7ce033658359f2519c9580ee6bb[m
+Merge: e007656 0d92187
+Author: gala-dan <kelley@galatea-associates.com>
+Date:   Mon Nov 20 13:08:06 2017 +0000
+
+    Merge pull request #83 from GalateaRaj/issue-82-sq-update
+    
+    Updated README.md with updated SonarQube link
+
+[33mcommit 0d92187a32dca8a844bd00f4f4c200b61e8c60c7[m
+Author: dkelley <kelley@galatea-associates.com>
+Date:   Mon Nov 20 13:01:23 2017 +0000
+
+    Updated README.md with updated SonarQube link
+
+[33mcommit 0b28b3f160d0994618dec1ea9364d4a2c84e3471[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: befe73a eae818a
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Nov 15 11:26:10 2017 -0500
+
+    Merge pull request #78 from ConorEbbs/master
+    
+    Added hibernate properties to batch reads and inserts to the DB.
+
+[33mcommit e007656cb7981ae5f1cd258c1c7374ec7af92207[m
+Merge: c0e713b befe73a
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Nov 15 11:25:53 2017 -0500
+
+    Merge pull request #81 from GalateaRaj/master
+    
+    Merge master back to develop
+
+[33mcommit befe73a00f7a1fa877a05fc76515887f239c4137[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Nov 15 11:22:59 2017 -0500
+
+    Updated some misc items
+
+[33mcommit bf2fb6fae9256d93f276144a89d15a53e017a08d[m
+Merge: 5b071ed c0e713b
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Mon Nov 13 13:14:47 2017 -0500
+
+    Merge pull request #80 from GalateaRaj/develop
+    
+    Add branching model
+
+[33mcommit c0e713b29c58a8d0eb62526cde040412928ed643[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Mon Nov 13 13:12:03 2017 -0500
+
+    Add branching model
+
+[33mcommit eae818a2c33798f6817c6e9dd852458e5ff4babf[m
+Author: cebbs91 <conorcebbs@gmail.com>
+Date:   Thu Nov 2 10:25:25 2017 -0400
+
+    Added hibernate properties to batch reads and inserts to the DB.
+
+[33mcommit 5b071eda39f7aa513bbe9da24ca906ac12bdec5b[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Aug 16 13:42:18 2017 -0400
+
+    Update spring boot version
+    
+    Move to the latest version of spring boot
+
+[33mcommit f8ec77687d412f705a9c4310f62afb3d69a61ee4[m
+Merge: 9dd6439 071fd18
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Mar 2 17:13:46 2017 +0000
+
+    Merge pull request #50 from j-barber/master
+    
+    Internal/external request id logging, and standard audit/payload rest response
+
+[33mcommit 071fd18b59fdaea76a1bbddeef9f2d50de6014ac[m
+Author: jamesbarber <jamesbarber@172.20.20.20>
+Date:   Thu Mar 2 07:27:41 2017 -0500
+
+    Updated readme with current details of audit handling on rest requests.
+
+[33mcommit e291dadf6032ff91d5209a252458a50682fa781a[m
+Author: jamesbarber <jamesbarber@10.0.0.3>
+Date:   Tue Jan 31 14:32:44 2017 -0500
+
+    59 Fixing tests to look for audit fields in response headers
+
+[33mcommit c61805fc94dad4d0c617704b262317696bd0445c[m
+Author: jamesbarber <jamesbarber@10.0.0.3>
+Date:   Mon Jan 30 14:19:31 2017 -0500
+
+    59 Put audit fields in the response headers
+
+[33mcommit f8a52edaa16df548a7f22887c0717ddbb0da07c0[m
+Author: jamesbarber <jamesbarber@10.0.0.3>
+Date:   Mon Jan 30 13:43:46 2017 -0500
+
+    59 Deleting RestResponse (response envelope)
+
+[33mcommit c85568b42bc195e7fc4becf02b207b8a60e26bd7[m
+Author: jamesbarber <jamesbarber@10.0.0.3>
+Date:   Mon Jan 30 13:42:08 2017 -0500
+
+    Deleting Data Envelope
+
+[33mcommit debc9b5e6c1a7ab00759da642b250589c438c79a[m
+Merge: 774db97 9dd6439
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Jan 20 12:45:39 2017 -0500
+
+    Merge branch 'master' of https://github.com/GalateaRaj/fuse-starter-java
+    
+    # Conflicts:
+    #       src/main/java/org/galatea/starter/utils/jms/FuseMessageListenerContainer.java
+    #       src/test/java/org/galatea/starter/entrypoint/SettlementRestControllerTest.java
+
+[33mcommit 774db97f15781d06f4bffa4730113da22657899e[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Jan 20 12:38:55 2017 -0500
+
+    50 Verifying audit for testSettleAgreement response
+
+[33mcommit 9e90f0b49b9299c7ed5051ffd933f1745734d718[m
+Merge: b32ebbd 2f85b87
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Jan 20 12:31:47 2017 -0500
+
+    Merged upstream conflict resolution
+
+[33mcommit 9dd64392dd1996474f6ff7233ee693cafc75fa68[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 19 22:20:11 2017 -0500
+
+    Add failed message consumer
+
+[33mcommit b32ebbdb978103ccd5f42d59457526f98a040593[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Jan 19 16:57:05 2017 -0500
+
+    50 Clearing MDC in AutoClosedTrace.close
+
+[33mcommit 1a988c39029371bf0b446d835c9f00c19610f34d[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Jan 19 16:51:07 2017 -0500
+
+    50 Removing @NonNull/@Autowired from SettlementRestController
+
+[33mcommit 2f85b877807e58f2130a56cbe906eed5bc5fca8a[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 19 12:15:10 2017 -0500
+
+    Add docs on JMS and Testing
+
+[33mcommit 39e47bb1983c9e89dd09e1bc630c56f60007c0dc[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 12 14:18:57 2017 +0000
+
+    Add comment
+    
+    On why we add an explicit all args ctor
+
+[33mcommit 36881d5368b92a8a346e95515ed9fd19eb8ec288[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 12 11:06:24 2017 +0000
+
+    Remove private
+
+[33mcommit 60d2cd87246c212e3c1e92fdc0f986ef0655217f[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 5 17:52:48 2017 -0500
+
+    Clean up the paramter mapper
+    
+    Make it simpler
+
+[33mcommit 5f2a451265f1f109ba54d187620c9335e48e3194[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 5 17:40:56 2017 -0500
+
+    Add file based parameterization
+
+[33mcommit 35c91ac388b0d7b44bad5c6b38103cd18d94480a[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Jan 5 09:57:22 2017 -0500
+
+    Parameterized unit tests
+    
+    A clean way to parameterize tests
+
+[33mcommit 3fb0110dce9c9c627fd96fbf11512588a453db85[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Dec 19 10:35:31 2016 -0500
+
+    Adding section highlighting Testing tools
+
+[33mcommit 2b1d74b4eeca5bd43790302251f7cf7339096063[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Dec 19 10:12:15 2016 -0500
+
+    Updated tests to expect audit/response sections
+
+[33mcommit 9e32882804f4272618269fee015f81b7b56654d3[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Dec 19 10:11:35 2016 -0500
+
+    Using 'debug' log config instead of removed 'console' config
+
+[33mcommit 4edb47b66eab6d9bf4ab130a4017726f3567521c[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Dec 19 10:11:05 2016 -0500
+
+    Added toString and debug log when creating response
+
+[33mcommit 133c13e3152b7efd117a02810613bc6dccb80378[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Dec 16 17:04:21 2016 -0500
+
+    Update log4j2 config file to fix travis ci build
+
+[33mcommit 44dc3eb5708d76baeec1e8e8fa33f2d68bac7db9[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Dec 16 17:00:07 2016 -0500
+
+    Removing unused imports
+
+[33mcommit 4935c03542d3c694a371563c0a4fdf286259475c[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Dec 16 16:57:50 2016 -0500
+
+    Adding documentation about external id capture/logging
+    Adding documentation about standardized audit/payload responses
+
+[33mcommit 9da0e075c07cc1e7c66ec5d64ee3ab106db33c39[m
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Dec 16 16:47:13 2016 -0500
+
+    Fixes merge issue
+
+[33mcommit 7948811d78e93f3037409b3498bb5d0d901cab2c[m
+Merge: e61d8e8 4a2d284
+Author: j-barber <barber@galatea-associates.com>
+Date:   Fri Dec 16 16:36:50 2016 -0500
+
+    Merge remote-tracking branch 'upstream/master'
+    
+    Attempting to merge from upstream repo into my fork
+
+[33mcommit e61d8e88a937b1dcec978fa93da0eba29b52a27f[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 16:22:18 2016 -0500
+
+    Add external request id to log statements
+    Enable debug for all fuse starter loggers
+    Include audit information on rest responses
+
+[33mcommit 556e34b76321f3225168985d3536cbc72bfb96f4[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 10:37:06 2016 -0500
+
+    Adding description of Sonar integration
+
+[33mcommit 55ca1e64d7b5f28def1ba7bf23a9525aad69aacd[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 10:22:51 2016 -0500
+
+    Updating project URL to point to GitHub page instead of Maven.org (since
+    sonarqube has a useful link)
+
+[33mcommit 827ff6ea336e829c1c8e2a680787dd43f2a7164e[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 10:14:14 2016 -0500
+
+    Updated Readme around MDC logging
+
+[33mcommit f6951c3b742b2218f0bdbc44ace159a14cfa0073[m
+Merge: 7ec9b49 ce9cb4c
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 10:09:37 2016 -0500
+
+    Resolved Tracer merge conflicts
+
+[33mcommit 7ec9b492bc5a7104d05b1a6888e11a0eab670a69[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 09:47:37 2016 -0500
+
+    Adding links around spring-boot-actuator
+
+[33mcommit c68e4f529733dad2961bd9b7f663c8449329811b[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Fri Dec 16 09:44:54 2016 -0500
+
+    Removing 'console' log4j2 config in favor of broader-scoped 'debug'
+    config
+    Adding example of enabling 'debug' level logging for specific loggers in
+    'debug' config
+    Updating log-pattern to abbreviate package names in log output
+    Updating log-pattern to include internal-request-id in log output
+    Add internal-request-id to all requests getting traced
+
+[33mcommit 4a2d284c56a3f23e40c3dc80bd77e649a943788e[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 15:26:54 2016 -0500
+
+    Added some dev best practices
+
+[33mcommit ca3c2a8f00b69eb3ff596961242a5a4ddd266363[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 15:26:10 2016 -0500
+
+    Get rid of auto-wired!
+
+[33mcommit ceabf584832b954b6d7afd7d88471bc5fb6171d5[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 15:15:32 2016 -0500
+
+    Refactor annotations
+    
+    Clean up some  the annotation order
+
+[33mcommit 28293e016e5d93b6eae66a485694131d0e3eb9db[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 15:01:36 2016 -0500
+
+    Sonar + Capsule issues
+
+[33mcommit 593ec0aa5b455be35f8ac8915caa698d22f31ec2[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 15:01:22 2016 -0500
+
+    Clean up sonar and capsule issues
+
+[33mcommit 9d57158ba9d615dfafa86b69533170e2301981d1[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 14:01:26 2016 -0500
+
+    Updated markdown
+
+[33mcommit a0bd11254f7ad3bc334154e450185a3914e0e382[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 14:00:10 2016 -0500
+
+    Update readme to show mvn and capsule commands
+
+[33mcommit ce9cb4ca8bc0b1506446d346809b6eeb6307ff10[m
+Merge: 07335d0 5397a24
+Author: j-barber <barber@galatea-associates.com>
+Date:   Thu Dec 15 13:39:59 2016 -0500
+
+    Merge pull request #3 from GalateaRaj/master
+    
+    Sync to GalateaRaj head
+
+[33mcommit 5397a24bd57957e122df7348844995329eb1de0d[m
+Merge: 2f01258 d49bdf1
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 12:16:17 2016 -0500
+
+    Merge pull request #45 from GalateaBerto/master
+    
+    - Adding first pass .editorconfig
+
+[33mcommit 2f012584e09a626c95ca87c4e77957a2f10d9703[m
+Merge: 05ea99f 07335d0
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 12:16:02 2016 -0500
+
+    Merge pull request #48 from j-barber/master
+    
+    Include date in log pattern
+
+[33mcommit 05ea99f7393895bd5f67d485652359cd26d5d93e[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 15 12:07:40 2016 -0500
+
+    Fixed tests
+    
+    Shutdown activemq so that old mocks don't stick around after a test is
+    complete
+
+[33mcommit 07335d043cccfaacd5a7049b288167d369429738[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Thu Dec 15 09:59:10 2016 -0500
+
+    Adding date to logging pattern
+
+[33mcommit b38c72181234fdc5faa9d40c93f81971c73c951a[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Thu Dec 15 09:18:53 2016 -0500
+
+    Reverting log4j config filename to the default and undoing changes in
+    pom.xml that attempted to use a non-default config filename
+
+[33mcommit 47bf99cab1be8a3ac65dcceb475de20de57203c0[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Wed Dec 14 16:10:18 2016 -0500
+
+    Removing argLine and changing log4j config filename (so it's not picked
+    up automatically)
+
+[33mcommit 026a0c0f693ad68d8355472dc3422c31fa4444f5[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Dec 14 08:10:28 2016 -0500
+
+    Log to stdout during mvn operations
+
+[33mcommit 061be5aa6e9fe00bc6c15ecd1d69b1584094bfa4[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 23:03:42 2016 -0500
+
+    Add a timeout when checking the mock
+
+[33mcommit 68f5f7e87c1063d191e3487ea65834a01ebbafca[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 22:36:57 2016 -0500
+
+    Mark service with appropriate stereotype
+
+[33mcommit 0abfc51fb2c59a103c963c13f252e21833e54330[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 22:30:51 2016 -0500
+
+    Made the jms listener test real
+
+[33mcommit 4c3ece20caf39d9a31b20ee186d98efc3a53e0de[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 21:49:14 2016 -0500
+
+    Add a multiple agreement test
+
+[33mcommit 2af4b2a8d08234302a41bac0bed7b6ec6895d071[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 17:22:19 2016 -0500
+
+    Added tests for rest controller
+
+[33mcommit b7127aecf70099c46dc05dd91d4c719d5329e5ce[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 17:22:03 2016 -0500
+
+    Added tests for rest controller
+
+[33mcommit d3d3ae472de732817f9740213235a19b70d6d5f3[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 13:56:58 2016 -0500
+
+    Clean up some sonar issues
+
+[33mcommit 6458347a5580998640a296f4f20c0fa24a4f88c6[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 13:38:13 2016 -0500
+
+    Add "how to run the project" section
+
+[33mcommit 23b184cbd827211d625b3498f29ebf9fc09ab3b2[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 13:14:36 2016 -0500
+
+    try again with travis ci
+
+[33mcommit 73c78bbdc7fe81e4456856932076d2340ed81171[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 13:07:05 2016 -0500
+
+    Add postman collection
+
+[33mcommit fe4ebdb12a503d8768ddc0f1907977da9a2a415b[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 12:57:31 2016 -0500
+
+    Trying to fix slack notifications
+
+[33mcommit 02c4f9dae808c9879a343134ae3d311c4a10d0e4[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 12:49:15 2016 -0500
+
+    Add on failure block for slack notifications
+
+[33mcommit b3680712ba5db1da1a01364aca1167f92d918ffb[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 12:35:51 2016 -0500
+
+    Only slack notify if success changes
+
+[33mcommit b88f59c50fb76d426238087c39571366a78ee8bf[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 12:30:50 2016 -0500
+
+    Add slack integration for travis
+
+[33mcommit ce10c6bef9229b15e572a7d9e3202ddffb9eb551[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 11:27:43 2016 -0500
+
+    #7 Try again
+
+[33mcommit fb3f6350fad456dd9abecceb52e3b908cf1806e5[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 11:22:32 2016 -0500
+
+    #7 attempt to add sonar for travis ci
+
+[33mcommit 752e46d89e67c8d602528cc0e3e4d0bf7fe0cc62[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 11:01:20 2016 -0500
+
+    #3: Run integration and unit tests in travis
+
+[33mcommit bb5d294701ffa1f06b91e9e452eca6e15765f028[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 10:53:23 2016 -0500
+
+    Update spring profile for dev
+    
+    Use default value for ddl-update instead of overriding
+
+[33mcommit 9618475c1d69bf2a24876cd83555193330d0278b[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 10:49:19 2016 -0500
+
+    Update pom comment for issue 3
+
+[33mcommit 968176bb05b46a7d7bccd7ced782b23725e4296e[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 10:47:47 2016 -0500
+
+    Split out integration and unit tests #3
+
+[33mcommit 3e07ff206ca26d01186f1d82fda5f719d7cec639[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 08:00:25 2016 -0500
+
+    Update name of project
+
+[33mcommit a602226bc2fa347f25d9cb44f56dcd7e4908f098[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 13 07:53:14 2016 -0500
+
+    Update purpose
+
+[33mcommit d49bdf1f7a2aa891ceb57ab1ae5b10520f05f788[m
+Author: Roberto Iturralde <iturralde@galatea-associates.com>
+Date:   Mon Dec 12 14:52:37 2016 -0500
+
+    - Adding first pass .editorconfig
+
+[33mcommit d061876b1d3f848175e8635ea6854b1be49750d8[m
+Merge: 116a066 f9fcd07
+Author: j-barber <barber@galatea-associates.com>
+Date:   Mon Dec 12 14:24:57 2016 -0500
+
+    Merge pull request #2 from GalateaRaj/master
+    
+    Pulling from GalateaRaj
+
+[33mcommit f9fcd07067a5394044efd814b118943d8fe0ad93[m
+Merge: 648b85e 4bbf5a7
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Dec 9 15:15:01 2016 -0500
+
+    Merge pull request #19 from adelsam/master
+    
+    IntelliJ Settings
+
+[33mcommit 648b85ef5db9d896323a7ab9c594aa79c63ad92a[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Dec 9 15:10:31 2016 -0500
+
+    Add rest endpint and tracing support
+
+[33mcommit d83b264b9fbe7db7cceee1b2fce0b733b21b8a0a[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 8 22:38:12 2016 -0500
+
+    Updated repository text
+
+[33mcommit 421555579fb96d76931a1ae4269e291ec8f30ae9[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 8 22:25:02 2016 -0500
+
+    Update with FUSE components
+
+[33mcommit 08e6cefa73d2a85786b3613192aa63f00a728b78[m
+Merge: 45754e3 116a066
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Dec 8 22:01:50 2016 -0500
+
+    Merge pull request #37 from j-barber/master
+    
+    Issue #4: Logging
+
+[33mcommit 116a0661547e3dd943f6dc4c8fbbb37aef5f60e0[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Thu Dec 8 15:03:21 2016 -0500
+
+    4 Log to console in Test only. Update to work with Capsule
+
+[33mcommit 49d2aee490ed6a4b2da0adbfd238a6a67dba38a7[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Thu Dec 8 08:20:08 2016 -0500
+
+    Issue 4: Add log4j2 yaml configuration, pom dependency for yaml
+    processing, and launch config to set environment variables do decide log
+    filename/dir
+
+[33mcommit 473489eaa2bc02f71dc19923c718a3cd2fb43b59[m
+Merge: 13f19ca 45754e3
+Author: j-barber <barber@galatea-associates.com>
+Date:   Wed Dec 7 11:35:41 2016 -0500
+
+    Merge pull request #1 from GalateaRaj/master
+    
+    Updating j-barber/fuse-starter-java with commits made to GalateaRaj/fuse-starter-java
+
+[33mcommit 45754e3ee2ef36bbf9607c9f8bdf30119dd4b19f[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 6 21:44:31 2016 -0500
+
+    Remove filet that is not needed
+
+[33mcommit dc233e62127e91b0befd32dda41b094a00da2a4e[m
+Merge: 43ad79d 13f19ca
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 6 13:22:40 2016 -0500
+
+    Merge pull request #31 from j-barber/master
+    
+    Update readme.md with index todo
+
+[33mcommit 43ad79d2e90d309e78ea33ca0609afc798967b29[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 6 13:18:31 2016 -0500
+
+    Clean up + change hibernate auto update
+
+[33mcommit 67d832eed91c26ee1a1e00b4627614c62fba4511[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Dec 6 12:39:07 2016 -0500
+
+    Added jms entrypoint
+
+[33mcommit 13f19caf168fb74c8c7c35b537202ca480116995[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Tue Dec 6 12:18:40 2016 -0500
+
+    Update readme.md with index todo
+
+[33mcommit d768347866b79dbbd5678f82229c3bd5f57cd65b[m
+Author: jbarber <jbarber@2016-Computer1.Galatea.com>
+Date:   Tue Dec 6 10:51:30 2016 -0500
+
+    Adding links/comments in pom.xml
+
+[33mcommit 12a500c95a7b46b5d94a9ec354a6ff80ce1d6b1e[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Mon Dec 5 16:24:28 2016 -0500
+
+    Added a comment
+
+[33mcommit 15d22a883bc8d8e36d1589aa5c5f93bad3ff10fc[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Mon Dec 5 16:23:37 2016 -0500
+
+    Added support for caching
+
+[33mcommit 56696914b60ebb27699c2be5319b3f5858adf368[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Dec 2 16:34:58 2016 -0500
+
+    add active mq
+
+[33mcommit 530cce3fdb2e8151372a4d5f5fa5f28f400fdd4a[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Dec 2 16:09:55 2016 -0500
+
+    Add yaml properties
+
+[33mcommit 4bbf5a7532b5bcf95c8f0fb6f3ff4098f63a754f[m
+Author: adelsam <samuel.adelman@gmail.com>
+Date:   Tue Nov 22 17:08:40 2016 -0500
+
+    Add IntelliJ runConfiguration/update gitignore to allow
+
+[33mcommit a0230fa96168890ea290f8617847bae82d496761[m
+Author: adelsam <samuel.adelman@gmail.com>
+Date:   Tue Nov 22 16:56:42 2016 -0500
+
+    adding IntelliJ settings
+
+[33mcommit 306292dafd122ad038e42c178d277268913967f6[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Nov 16 16:52:51 2016 -0500
+
+    Added Runner
+
+[33mcommit 695e9235f6d3c24e14b17b826b749cd377997e79[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Nov 8 18:11:23 2016 -0500
+
+    Updated some functionality
+
+[33mcommit 40f202b3c1adbc9acbf2d60757d6dc0294a0d2a4[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Fri Sep 30 17:37:16 2016 -0400
+
+    Renamed project
+
+[33mcommit 0a0778b636310121686393846981e1df412aa4b1[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Sep 29 17:07:28 2016 -0400
+
+    Added log4j
+
+[33mcommit 477c92bb3c3045f2b9886f7583291aeb4622e22f[m
+Merge: 3d985e0 2ecec12
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Sep 29 16:30:52 2016 -0400
+
+    Merge branch 'master' of https://github.com/GalateaRaj/galatea-starter-java.git
+
+[33mcommit 3d985e0698eb52437b34b840d9881132db3ce8e8[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Thu Sep 29 16:29:37 2016 -0400
+
+    Added more functionality
+
+[33mcommit 2ecec12fa3efce6738ba44d5393c169f020e32f5[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Sep 28 11:15:46 2016 -0400
+
+    Create new file
+
+[33mcommit 26feedfb66cac6590679904265914d9603b0a15c[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Sep 28 11:07:43 2016 -0400
+
+    Updated name
+
+[33mcommit 03df932b7789aece5da62772841e8e6f93586c08[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Wed Sep 28 08:25:34 2016 -0400
+
+    Initial version
+
+[33mcommit 73446f22e2b7c92f0eede94a3c737bd3c8413d7d[m
+Author: GalateaRaj <basu@galatea-associates.com>
+Date:   Tue Sep 27 15:04:43 2016 -0400
+
+    Initial commit
